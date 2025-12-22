@@ -1,40 +1,48 @@
+import json
 import asyncio
-import uuid
-from app.db import DriveDisc, async_session_maker, create_db_and_tables
+from app.db import DriveDisc , async_session_maker, create_db_and_tables, Weapon
 
-data = [
-    {
-        "icon": "UI/Sprite/A1DynamicLoad/IconSuit/UnPacker/SuitSavior.png",
-        "name": "Shining Aria",
-        "desc1": "Example Desc1",
-        "desc2": "<color=#FE437E>Ether DMG</color> +10%",
-        "story": "The first album released after \"Angels of Delusion\"..."
-    },
-    {
-        "icon": "UI/Sprite/A1DynamicLoad/IconSuit/UnPacker/SuitSavior.png",
-        "name": "Phaethon's Melody",
-        "desc1": "Example Desc1",
-        "desc2": "Anomaly Mastery +8%.",
-        "story": "A peculiar Drive Disc created by fanatical followers of Phaethon..."
-    }
-]
+def load_json(filename):
+    try:
+        with open(filename) as file:
+            data = json.load(file)
+        return data
+    except Exception as e:
+        print(f"Error loading {filename}: {e}")
+        return {}
 
-async def seed_db():
+
+async def seed_drive_dics():
     await create_db_and_tables()
+    data= load_json( "../scrape/drive_discs.json")
 
     async with async_session_maker() as session:
-        for item in data:
+        for _, item in data.items():
             disc = DriveDisc(
                 icon=item["icon"],
                 name=item["name"],
-                desc1=item.get("desc1", ""),
-                desc2=item["desc2"],
-                story=item["story"]
+                desc1=item["desc2"],
+                desc2=item["desc4"]
             )
             session.add(disc)
-        await session.commit()
-        print("DB seeded successfully!")
 
+        await session.commit()
+
+async def seed_weapons():
+    await create_db_and_tables()
+    data=load_json("../scrape/weapons.json")
+
+    async with async_session_maker() as session:
+        for _, item in data.items():
+            weapon = Weapon(
+                icon=item["icon"],
+                rank=item["rank"],
+                type=item["type"],
+                name=item["EN"]
+            )
+            session.add(weapon)
+        await session.commit()
 
 if __name__ == "__main__":
-    asyncio.run(seed_db())
+    asyncio.run(seed_drive_dics())
+    asyncio.run(seed_weapons())

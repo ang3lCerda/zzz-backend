@@ -1,0 +1,494 @@
+{
+  "13108": {
+    "icon": "https://api.hakush.in/zzz/UI/Weapon_A_1081.png",
+    "rank": 3,
+    "type": 1,
+    "EN": "Starlight Engine Replica"
+  },
+  "14104": {
+    "icon": "https://api.hakush.in/zzz/UI/Weapon_S_1041.png",
+    "rank": 4,
+    "type": 1,
+    "EN": "The Brimstone"
+  },
+  "14143": {
+    "icon": "https://api.hakush.in/zzz/UI/Weapon_S_1431.png",
+    "rank": 4,
+    "type": 1,
+    "EN": "Cloudcleave Radiance"
+  },
+  "12009": {
+    "icon": "https://api.hakush.in/zzz/UI/Weapon_B_Common_09.png",
+    "rank": 2,
+    "type": 2,
+    "EN": "[Vortex] Hatchet"
+  },
+  "14107": {
+    "icon": "https://api.hakush.in/zzz/UI/Weapon_S_1071.png",
+    "rank": 4,
+    "type": 5,
+    "EN": "Tusks of Fury"
+  },
+  "13103": {
+    "icon": "https://api.hakush.in/zzz/UI/Weapon_A_1031.png",
+    "rank": 3,
+    "type": 4,
+    "EN": "The Vault"
+  },
+  "14137": {
+    "icon": "https://api.hakush.in/zzz/UI/Weapon_S_1371.png",
+    "rank": 4,
+    "type": 6,
+    "EN": "Qingming Birdcage"
+  },
+  "13002": {
+    "icon": "https://api.hakush.in/zzz/UI/Weapon_A_Common_02.png",
+    "rank": 3,
+    "type": 4,
+    "EN": "Slice of Time"
+  },
+  "13113": {
+    "icon": "https://api.hakush.in/zzz/UI/Weapon_A_1131.png",
+    "rank": 3,
+    "type": 4,
+    "EN": "Bashful Demon"
+  },
+  "13142": {
+    "icon": "https://api.hakush.in/zzz/UI/Weapon_A_1421.png",
+    "rank": 3,
+    "type": 5,
+    "EN": "Tremor Trigram Vessel"
+  },
+  "12003": {
+    "icon": "https://api.hakush.in/zzz/UI/Weapon_B_Common_03.png",
+    "rank": 2,
+    "type": 1,
+    "EN": "[Lunar] Noviluna"
+  },
+  "12002": {
+    "icon": "https://api.hakush.in/zzz/UI/Weapon_B_Common_02.png",
+    "rank": 2,
+    "type": 1,
+    "EN": "[Lunar] Decrescent"
+  },
+  "13135": {
+    "icon": "https://api.hakush.in/zzz/UI/Weapon_A_1351.png",
+    "rank": 3,
+    "type": 2,
+    "EN": "Box Cutter"
+  },
+  "14133": {
+    "icon": "https://api.hakush.in/zzz/UI/Weapon_S_1331.png",
+    "rank": 4,
+    "type": 3,
+    "EN": "Flight of Fancy"
+  },
+  "13014": {
+    "icon": "https://api.hakush.in/zzz/UI/Weapon_A_Common_14.png",
+    "rank": 3,
+    "type": 6,
+    "EN": "Radiowave Journey"
+  },
+  "13008": {
+    "icon": "https://api.hakush.in/zzz/UI/Weapon_A_Common_08.png",
+    "rank": 3,
+    "type": 3,
+    "EN": "Weeping Gemini"
+  },
+  "14001": {
+    "icon": "https://api.hakush.in/zzz/UI/Weapon_S_Common_01.png",
+    "rank": 3,
+    "type": 1,
+    "EN": "Cannon Rotor"
+  },
+  "13003": {
+    "icon": "https://api.hakush.in/zzz/UI/Weapon_A_Common_03.png",
+    "rank": 3,
+    "type": 3,
+    "EN": "Rainforest Gourmet"
+  },
+  "13012": {
+    "icon": "https://api.hakush.in/zzz/UI/Weapon_A_Common_12.png",
+    "rank": 3,
+    "type": 6,
+    "EN": "Puzzle Sphere"
+  },
+  "14130": {
+    "icon": "https://api.hakush.in/zzz/UI/Weapon_S_1301.png",
+    "rank": 4,
+    "type": 1,
+    "EN": "Bellicose Blaze"
+  },
+  "14105": {
+    "icon": "https://api.hakush.in/zzz/UI/Weapon_S_1051.png",
+    "rank": 4,
+    "type": 6,
+    "EN": "Kraken's Cradle"
+  },
+  "13010": {
+    "icon": "https://api.hakush.in/zzz/UI/Weapon_A_Common_10.png",
+    "rank": 3,
+    "type": 5,
+    "EN": "Bunny Band"
+  },
+  "14116": {
+    "icon": "https://api.hakush.in/zzz/UI/Weapon_S_1161.png",
+    "rank": 4,
+    "type": 2,
+    "EN": "Blazing Laurel"
+  },
+  "13011": {
+    "icon": "https://api.hakush.in/zzz/UI/Weapon_A_Common_11.png",
+    "rank": 3,
+    "type": 5,
+    "EN": "Spring Embrace"
+  },
+  "14102": {
+    "icon": "https://api.hakush.in/zzz/UI/Weapon_S_1021.png",
+    "rank": 4,
+    "type": 1,
+    "EN": "Steel Cushion"
+  },
+  "13015": {
+    "icon": "https://api.hakush.in/zzz/UI/Weapon_A_Common_15.png",
+    "rank": 3,
+    "type": 1,
+    "EN": "Marcato Desire"
+  },
+  "14122": {
+    "icon": "https://api.hakush.in/zzz/UI/Weapon_S_1221.png",
+    "rank": 4,
+    "type": 3,
+    "EN": "Timeweaver"
+  },
+  "14120": {
+    "icon": "https://api.hakush.in/zzz/UI/Weapon_S_1201.png",
+    "rank": 4,
+    "type": 1,
+    "EN": "Zanshin Herb Case"
+  },
+  "12015": {
+    "icon": "https://api.hakush.in/zzz/UI/Weapon_B_Common_15.png",
+    "rank": 2,
+    "type": 6,
+    "EN": "[Cinder] Cobalt"
+  },
+  "14114": {
+    "icon": "https://api.hakush.in/zzz/UI/Weapon_S_1141.png",
+    "rank": 4,
+    "type": 2,
+    "EN": "The Restrained"
+  },
+  "14118": {
+    "icon": "https://api.hakush.in/zzz/UI/Weapon_S_1181.png",
+    "rank": 4,
+    "type": 3,
+    "EN": "Fusion Compiler"
+  },
+  "12011": {
+    "icon": "https://api.hakush.in/zzz/UI/Weapon_B_Common_11.png",
+    "rank": 2,
+    "type": 3,
+    "EN": "[Magnetic Storm] Bravo"
+  },
+  "14129": {
+    "icon": "https://api.hakush.in/zzz/UI/Weapon_S_1291.png",
+    "rank": 4,
+    "type": 1,
+    "EN": "Myriad Eclipse"
+  },
+  "14134": {
+    "icon": "https://api.hakush.in/zzz/UI/Weapon_S_1341.png",
+    "rank": 4,
+    "type": 5,
+    "EN": "Half-Sugar Bunny"
+  },
+  "14145": {
+    "icon": "https://api.hakush.in/zzz/UI/Weapon_S_1451.png",
+    "rank": 4,
+    "type": 4,
+    "EN": "Dreamlit Hearth"
+  },
+  "14138": {
+    "icon": "https://api.hakush.in/zzz/UI/Weapon_S_1381.png",
+    "rank": 4,
+    "type": 1,
+    "EN": "Severed Innocence"
+  },
+  "14146": {
+    "icon": "https://api.hakush.in/zzz/UI/Weapon_S_1461.png",
+    "rank": 4,
+    "type": 1,
+    "EN": "Cordis Germina"
+  },
+  "14136": {
+    "icon": "https://api.hakush.in/zzz/UI/Weapon_S_1361.png",
+    "rank": 4,
+    "type": 2,
+    "EN": "Spectral Gaze"
+  },
+  "13007": {
+    "icon": "https://api.hakush.in/zzz/UI/Weapon_A_Common_07.png",
+    "rank": 3,
+    "type": 5,
+    "EN": "Original Transmorpher"
+  },
+  "12005": {
+    "icon": "https://api.hakush.in/zzz/UI/Weapon_B_Common_05.png",
+    "rank": 2,
+    "type": 4,
+    "EN": "[Reverb] Mark II"
+  },
+  "13112": {
+    "icon": "https://api.hakush.in/zzz/UI/Weapon_A_1121.png",
+    "rank": 3,
+    "type": 5,
+    "EN": "Big Cylinder"
+  },
+  "14147": {
+    "icon": "https://api.hakush.in/zzz/UI/Weapon_S_1471.png",
+    "rank": 4,
+    "type": 6,
+    "EN": "Wrathful Vajra"
+  },
+  "12007": {
+    "icon": "https://api.hakush.in/zzz/UI/Weapon_B_Common_07.png",
+    "rank": 2,
+    "type": 2,
+    "EN": "[Vortex] Revolver"
+  },
+  "14119": {
+    "icon": "https://api.hakush.in/zzz/UI/Weapon_S_1191.png",
+    "rank": 4,
+    "type": 1,
+    "EN": "Deep Sea Visitor"
+  },
+  "14139": {
+    "icon": "https://api.hakush.in/zzz/UI/Weapon_S_1391.png",
+    "rank": 4,
+    "type": 2,
+    "EN": "Roaring Fur-nace"
+  },
+  "14132": {
+    "icon": "https://api.hakush.in/zzz/UI/Weapon_S_1321.png",
+    "rank": 4,
+    "type": 1,
+    "EN": "Heartstring Nocturne"
+  },
+  "14117": {
+    "icon": "https://api.hakush.in/zzz/UI/Weapon_S_1171.png",
+    "rank": 4,
+    "type": 3,
+    "EN": "Flamemaker Shaker"
+  },
+  "14124": {
+    "icon": "https://api.hakush.in/zzz/UI/Weapon_S_1241.png",
+    "rank": 4,
+    "type": 1,
+    "EN": "Riot Suppressor Mark VI"
+  },
+  "14141": {
+    "icon": "https://api.hakush.in/zzz/UI/Weapon_S_1411.png",
+    "rank": 4,
+    "type": 4,
+    "EN": "Metanukimorphosis"
+  },
+  "13101": {
+    "icon": "https://api.hakush.in/zzz/UI/Weapon_A_1011.png",
+    "rank": 3,
+    "type": 2,
+    "EN": "Demara Battery Mark II"
+  },
+  "14110": {
+    "icon": "https://api.hakush.in/zzz/UI/Weapon_S_1101.png",
+    "rank": 4,
+    "type": 2,
+    "EN": "Hellfire Gears"
+  },
+  "12013": {
+    "icon": "https://api.hakush.in/zzz/UI/Weapon_B_Common_13.png",
+    "rank": 2,
+    "type": 5,
+    "EN": "[Identity] Base"
+  },
+  "12006": {
+    "icon": "https://api.hakush.in/zzz/UI/Weapon_B_Common_06.png",
+    "rank": 2,
+    "type": 4,
+    "EN": "[Reverb] Mark III"
+  },
+  "14109": {
+    "icon": "https://api.hakush.in/zzz/UI/Weapon_S_1091.png",
+    "rank": 4,
+    "type": 3,
+    "EN": "Hailstorm Shrine"
+  },
+  "13004": {
+    "icon": "https://api.hakush.in/zzz/UI/Weapon_A_Common_04.png",
+    "rank": 3,
+    "type": 1,
+    "EN": "Starlight Engine"
+  },
+  "13016": {
+    "icon": "https://api.hakush.in/zzz/UI/Weapon_A_Common_16.png",
+    "rank": 3,
+    "type": 5,
+    "EN": "Reel Projector"
+  },
+  "12014": {
+    "icon": "https://api.hakush.in/zzz/UI/Weapon_B_Common_14.png",
+    "rank": 2,
+    "type": 5,
+    "EN": "[Identity] Inflection"
+  },
+  "13005": {
+    "icon": "https://api.hakush.in/zzz/UI/Weapon_A_Common_05.png",
+    "rank": 3,
+    "type": 2,
+    "EN": "Steam Oven"
+  },
+  "14131": {
+    "icon": "https://api.hakush.in/zzz/UI/Weapon_S_1311.png",
+    "rank": 4,
+    "type": 4,
+    "EN": "Elegant Vanity"
+  },
+  "13127": {
+    "icon": "https://api.hakush.in/zzz/UI/Weapon_A_1271.png",
+    "rank": 3,
+    "type": 5,
+    "EN": "Peacekeeper - Specialized"
+  },
+  "13111": {
+    "icon": "https://api.hakush.in/zzz/UI/Weapon_A_1111.png",
+    "rank": 3,
+    "type": 1,
+    "EN": "Drill Rig - Red Axis"
+  },
+  "13019": {
+    "icon": "https://api.hakush.in/zzz/UI/Weapon_A_Common_19.png",
+    "rank": 3,
+    "type": 6,
+    "EN": "Cauldron of Clarity"
+  },
+  "14121": {
+    "icon": "https://api.hakush.in/zzz/UI/Weapon_S_1211.png",
+    "rank": 4,
+    "type": 4,
+    "EN": "Weeping Cradle"
+  },
+  "12010": {
+    "icon": "https://api.hakush.in/zzz/UI/Weapon_B_Common_10.png",
+    "rank": 2,
+    "type": 3,
+    "EN": "[Magnetic Storm] Alpha"
+  },
+  "13115": {
+    "icon": "https://api.hakush.in/zzz/UI/Weapon_A_1151.png",
+    "rank": 3,
+    "type": 4,
+    "EN": "Kaboom the Cannon"
+  },
+  "13009": {
+    "icon": "https://api.hakush.in/zzz/UI/Weapon_A_Common_09.png",
+    "rank": 3,
+    "type": 3,
+    "EN": "Electro-Lip Gloss"
+  },
+  "14140": {
+    "icon": "https://api.hakush.in/zzz/UI/Weapon_S_1401.png",
+    "rank": 4,
+    "type": 3,
+    "EN": "Practiced Perfection"
+  },
+  "13013": {
+    "icon": "https://api.hakush.in/zzz/UI/Weapon_A_Common_13.png",
+    "rank": 3,
+    "type": 1,
+    "EN": "Gilded Blossom"
+  },
+  "14148": {
+    "icon": "https://api.hakush.in/zzz/UI/Weapon_S_1481.png",
+    "rank": 4,
+    "type": 2,
+    "EN": "Yesterday Calls"
+  },
+  "12004": {
+    "icon": "https://api.hakush.in/zzz/UI/Weapon_B_Common_04.png",
+    "rank": 2,
+    "type": 4,
+    "EN": "[Reverb] Mark I"
+  },
+  "14126": {
+    "icon": "https://api.hakush.in/zzz/UI/Weapon_S_1261.png",
+    "rank": 4,
+    "type": 3,
+    "EN": "Sharpened Stinger"
+  },
+  "12008": {
+    "icon": "https://api.hakush.in/zzz/UI/Weapon_B_Common_08.png",
+    "rank": 2,
+    "type": 2,
+    "EN": "[Vortex] Arrow"
+  },
+  "12001": {
+    "icon": "https://api.hakush.in/zzz/UI/Weapon_B_Common_01.png",
+    "rank": 2,
+    "type": 1,
+    "EN": "[Lunar] Pleniluna"
+  },
+  "13106": {
+    "icon": "https://api.hakush.in/zzz/UI/Weapon_A_1061.png",
+    "rank": 3,
+    "type": 1,
+    "EN": "Housekeeper"
+  },
+  "14002": {
+    "icon": "https://api.hakush.in/zzz/UI/Weapon_S_Common_02.png",
+    "rank": 3,
+    "type": 4,
+    "EN": "Unfettered Game Ball"
+  },
+  "14125": {
+    "icon": "https://api.hakush.in/zzz/UI/Weapon_S_1251.png",
+    "rank": 4,
+    "type": 2,
+    "EN": "Ice-Jade Teapot"
+  },
+  "13001": {
+    "icon": "https://api.hakush.in/zzz/UI/Weapon_A_Common_01.png",
+    "rank": 3,
+    "type": 1,
+    "EN": "Street Superstar"
+  },
+  "13006": {
+    "icon": "https://api.hakush.in/zzz/UI/Weapon_A_Common_06.png",
+    "rank": 3,
+    "type": 2,
+    "EN": "Precious Fossilized Core"
+  },
+  "12012": {
+    "icon": "https://api.hakush.in/zzz/UI/Weapon_B_Common_12.png",
+    "rank": 2,
+    "type": 3,
+    "EN": "[Magnetic Storm] Charlie"
+  },
+  "14003": {
+    "icon": "https://api.hakush.in/zzz/UI/Weapon_S_Common_03.png",
+    "rank": 3,
+    "type": 2,
+    "EN": "Six Shooter"
+  },
+  "13144": {
+    "icon": "https://api.hakush.in/zzz/UI/Weapon_A_1441.png",
+    "rank": 3,
+    "type": 6,
+    "EN": "Grill O'Wisp"
+  },
+  "13128": {
+    "icon": "https://api.hakush.in/zzz/UI/Weapon_A_1281.png",
+    "rank": 3,
+    "type": 3,
+    "EN": "Roaring Ride"
+  }
+}
