@@ -14,7 +14,7 @@ def load_json(filename):
 
 async def seed_drive_dics():
     await create_db_and_tables()
-    data= load_json( "../scrape/drive_discs.json")
+    data= load_json( "scrape/drive_discs.json")
 
     async with async_session_maker() as session:
         for _, item in data.items():
@@ -30,7 +30,7 @@ async def seed_drive_dics():
 
 async def seed_weapons():
     await create_db_and_tables()
-    data=load_json("../scrape/weapons.json")
+    data=load_json("scrape/weapons.json")
 
     async with async_session_maker() as session:
         for _, item in data.items():
