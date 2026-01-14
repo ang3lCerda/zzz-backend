@@ -1,6 +1,5 @@
 {
   "12001": {
-    "Id": 12001,
     "CodeName": "Weapon_B_Common_01",
     "Name": "[Lunar] Pleniluna",
     "Desc": "A W-Engine that prioritizes damage output over noise reduction. It can indiscriminately deal considerable damage to all units nearby. Its designer compares it to the full moon. Bright moonlight can interrupt people's sleep, and nothing can be done about it. But the moonlight does not bother anyone on purpose — you just have to get used to it.",
@@ -381,7 +380,6 @@
     }
   },
   "12002": {
-    "Id": 12002,
     "CodeName": "Weapon_B_Common_02",
     "Name": "[Lunar] Decrescent",
     "Desc": "A W-Engine with excellent sonic and thermal energy usage, capable of hitting its target with a double whammy. Those hit, be it intentionally or not, have a chance to be diagnosed with snow blindness. The exact cause remains unknown, so obtaining insurance compensation after falling victim to this malady is close to impossible. There was a poor Hollow investigator who learned it the hard way.",
@@ -762,7 +760,6 @@
     }
   },
   "12003": {
-    "Id": 12003,
     "CodeName": "Weapon_B_Common_03",
     "Name": "[Lunar] Noviluna",
     "Desc": "This high-capacity portable W-Engine can collect dissipated energy from its surroundings, thus enhancing the combat effectiveness of its operator. It is a perfect choice for novice explorers who are worried that their W-Engine may run out of power during expeditions.",
@@ -1143,7 +1140,6 @@
     }
   },
   "12004": {
-    "Id": 12004,
     "CodeName": "Weapon_B_Common_04",
     "Name": "[Reverb] Mark I",
     "Desc": "This special W-Engine features a built-in sonic generator that converts collected energy into penetrating infrasound waves, thereby boosting its damage output. However, to activate this function, the operator needs to charge up enough power, and the first step of charging up is to use up any remaining energy in the W-Engine.",
@@ -1524,7 +1520,6 @@
     }
   },
   "12005": {
-    "Id": 12005,
     "CodeName": "Weapon_B_Common_05",
     "Name": "[Reverb] Mark II",
     "Desc": "A standardized W-Engine with balanced performance. Despite lacking any particular tendencies, it enhances its owner's and it's owner's teammates' combat effectiveness in all aspects. For novice explorers who have not figured out their preferred combat style, this W-Engine is an excellent choice.",
@@ -1905,7 +1900,6 @@
     }
   },
   "12006": {
-    "Id": 12006,
     "CodeName": "Weapon_B_Common_06",
     "Name": "[Reverb] Mark III",
     "Desc": "This special W-Engine features motion capture algorithms that monitor the status of the operator's teammates, enabling it to send signals to coordinate tactical movements and enhance the overall combat competency of the squad. However, this premise assumes that everyone can keep up with its signals instead of stepping on other members' toes...",
@@ -2286,7 +2280,6 @@
     }
   },
   "12007": {
-    "Id": 12007,
     "CodeName": "Weapon_B_Common_07",
     "Name": "[Vortex] Revolver",
     "Desc": "An energy-storage type W-Engine with a unique operation circuit. It will absorb scattered energy up to a certain amount before unleashing it, dealing some extra impact. It's impossible to control when that energy is unleashed, but when it is, it'll give you the joy of winning a prize draw.",
@@ -2667,7 +2660,6 @@
     }
   },
   "12008": {
-    "Id": 12008,
     "CodeName": "Weapon_B_Common_08",
     "Name": "[Vortex] Arrow",
     "Desc": "A tactical W-Engine that locates enemies using high-frequency sound waves. Once it has marked its targets, it will activate its aiming aid to make the operator's precision attack more deadly. While this feature increases the operator's efficiency in battles, it may occasionally attract curious Ethereals from afar.",
@@ -3048,7 +3040,6 @@
     }
   },
   "12009": {
-    "Id": 12009,
     "CodeName": "Weapon_B_Common_09",
     "Name": "[Vortex] Hatchet",
     "Desc": "This inverter W-Engine can generate excessive power and effectively increase its operator's battle prowess. However, due to its poor heat dissipation, it emits ear-splitting noise during battle. As a result, all squad members will need to wear earplugs.",
@@ -3429,7 +3420,6 @@
     }
   },
   "12010": {
-    "Id": 12010,
     "CodeName": "Weapon_B_Common_10",
     "Name": "[Magnetic Storm] Alpha",
     "Desc": "This special W-Engine can analyze the target's weak spots through real-time calculations. Although its heavy exoskeleton can be a burden to the operator, some users have found it to be an efficient way to exercise and lose weight, and have thus become loyal customers.",
@@ -3810,7 +3800,6 @@
     }
   },
   "12011": {
-    "Id": 12011,
     "CodeName": "Weapon_B_Common_11",
     "Name": "[Magnetic Storm] Bravo",
     "Desc": "This damage-type W-Engine features enhanced movement detection modules that can detect the operator's status in real-time and boost their combat prowess at critical moments to optimize battle efficiency. After the operator completes the finishing move, the W-Engine emits a dazzling multicolored flash and rates the operator's move.",
@@ -4191,7 +4180,6 @@
     }
   },
   "12012": {
-    "Id": 12012,
     "CodeName": "Weapon_B_Common_12",
     "Name": "[Magnetic Storm] Charlie",
     "Desc": "A high-capacity W-Engine that features a built-in generator, allowing it to keep a stable storage of electrical power without any manual operation from the operator. As a result, it proves to be exceptionally used in battle as its electric current can stun tough enemies.",
@@ -4572,7 +4560,6 @@
     }
   },
   "12013": {
-    "Id": 12013,
     "CodeName": "Weapon_B_Common_13",
     "Name": "[Identity] Base",
     "Desc": "A W-Engine with a component structure adjusted according to specific parameters. It can enhance the defensive capabilities of those who have a certain style of combat. If the user does not meet the requirements for this W-Engine, then carrying it would be like lugging around an over-sized shield in battle.",
@@ -4953,7 +4940,6 @@
     }
   },
   "12014": {
-    "Id": 12014,
     "CodeName": "Weapon_B_Common_14",
     "Name": "[Identity] Inflection",
     "Desc": "A functional W-Engine that specializes in energy conversion. It can analyze combat environments and generate special sounds to disrupt the enemy's attack. However, when facing a strong-willed enemy, you will still need to seize the right opportunity to attack. Luckily, most Ethereals lack the willpower to resist it.",
@@ -5334,7 +5320,6 @@
     }
   },
   "12015": {
-    "Id": 12015,
     "CodeName": "Weapon_B_Common_15",
     "Name": "[Cinder] Cobalt",
     "Desc": "This W-Engine with an integrated heating element offers a significant combat boost by reaching extreme temperatures, allowing the user to effortlessly break through the enemy's defenses. This cobalt blue flame, burning quietly, is darkly beautiful, but be sure to keep your distance and avoid touching it.",
@@ -5715,7 +5700,6 @@
     }
   },
   "13001": {
-    "Id": 13001,
     "CodeName": "Weapon_A_Common_01",
     "Name": "Street Superstar",
     "Desc": "A custom-made W-Engine designed for street music lovers. It sacrifices cooling components to make space for high-end speaker modules, ensuring your fans, both Ethereal and human, hear your every word.\n——From the streets to the Hollows, superstars are never short of flowers and applause. The bars they spit are so flaming hot, they add the perfect heat to any battlefield.",
@@ -6096,7 +6080,6 @@
     }
   },
   "13002": {
-    "Id": 13002,
     "CodeName": "Weapon_A_Common_02",
     "Name": "Slice of Time",
     "Desc": "A special W-Engine equipped with a high-speed camera module. The best choice for in-Hollow photography enthusiasts. It captures every touching moment spent beating up your Ethereal friends, as long as you have a free hand to press the shutter.\nP.S. The internal optical components have not undergone anti-corruption treatment. Please do not lose the warranty form.",
@@ -6477,7 +6460,6 @@
     }
   },
   "13003": {
-    "Id": 13003,
     "CodeName": "Weapon_A_Common_03",
     "Name": "Rainforest Gourmet",
     "Desc": "A consumer-class W-Engine launched by an exotic pet fan club to promote pet culture. It used to be a popular model until three customers' fingers, a staff member, and half a Bangboo disappeared into a Gourmet's big mouth. Ether blocks generated by the mouth module can rapidly devour substances. Please avoid putting your head and limbs inside.",
@@ -6858,7 +6840,6 @@
     }
   },
   "13004": {
-    "Id": 13004,
     "CodeName": "Weapon_A_Common_04",
     "Name": "Starlight Engine",
     "Desc": "A damage-type W-Engine made of special Etheric matter. When its operator is attacked, it builds up energy and boosts its damage output. Although it does not grant the operator the power to transform into a Starlight Knight, it provides a surge of courage when the operator is in dire situations.",
@@ -7239,7 +7220,6 @@
     }
   },
   "13005": {
-    "Id": 13005,
     "CodeName": "Weapon_A_Common_05",
     "Name": "Steam Oven",
     "Desc": "This high-power W-Engine boasts a cutting-edge energy conversion device that collects heat from its surroundings and supplies it to the steamer, making it easy for the operator to cook or heat up objects. This makes it a perfect choice for Hollow explorers. However... please be careful when using it to avoid burns.",
@@ -7620,7 +7600,6 @@
     }
   },
   "13006": {
-    "Id": 13006,
     "CodeName": "Weapon_A_Common_06",
     "Name": "Precious Fossilized Core",
     "Desc": "A special W-Engine whose outer shell is made of composite Etheric matter that effectively absorb incoming impacts in combat and turn it against the enemy. Rumors suggest that its prototype was crafted by a legendary Hollow explorer, and despite its ancient appearance, it continues to run smoothly. This W-Engine is literally an \"old timer\" in the field of W-Engines.",
@@ -8001,7 +7980,6 @@
     }
   },
   "13007": {
-    "Id": 13007,
     "CodeName": "Weapon_A_Common_07",
     "Name": "Original Transmorpher",
     "Desc": "A dream W-Engine adored by Starlight Knights fans. Its copyright owner claims that counterfeit transformers can transform you into a bad guy NPC. Watch out for a flying kick that'll scare the bejesus out of the bad guys — that's the power of genuine copyrighted merch!\n\"Starlight Knights, transform— Transform! Transform! Why can't I transform? Unless... the stars haven't chosen me?!\" — from an unboxing vlog recorded by an anonymous member of the Cunning Hares.",
@@ -8382,7 +8360,6 @@
     }
   },
   "13008": {
-    "Id": 13008,
     "CodeName": "Weapon_A_Common_08",
     "Name": "Weeping Gemini",
     "Desc": "A W-Engine produced by recycling abandoned Bangboo shells. Though it's made from scrapped parts, it still caused some distress among Bangboo lovers. \"No Bangboo were hurt during the production of this W-Engine.\" — the manufacturer had to include this note on the packaging due to protests from Bangboo rights organizations.",
@@ -8763,7 +8740,6 @@
     }
   },
   "13009": {
-    "Id": 13009,
     "CodeName": "Weapon_A_Common_09",
     "Name": "Electro-Lip Gloss",
     "Desc": "This damage-type W-Engine boasts a built-in current transformer, with its discharge part designed as a protruding lip gloss. It automatically attracts electrically sensitive objects around the operator and deals additional damage to them. Such is not the power of love, but rather the Lorentz force generated by a 1,000-volt electric field.",
@@ -9144,7 +9120,6 @@
     }
   },
   "13010": {
-    "Id": 13010,
     "CodeName": "Weapon_A_Common_10",
     "Name": "Bunny Band",
     "Desc": "A special W-Engine decorated with a fluffy bunny. Although it is a mere imitation of the real animal, even the fiercest of Hollow Raiders can relieve stress by petting their bunnies while taking a break, which enhances their combat performance. There are many similar models in this series of W-Engines: a portable bunny, a foldable bunny, a furless bunny... Everyone can find one they will not be able to refuse.",
@@ -9525,7 +9500,6 @@
     }
   },
   "13011": {
-    "Id": 13011,
     "CodeName": "Weapon_A_Common_11",
     "Name": "Spring Embrace",
     "Desc": "A special W-Engine equipped with a temperature regulator where residual heat generated by the W-Engine's high frequency is funneled into the hot springs on its surface. The owner of this W-Engine can drink hot spring soup with all its spring warmth in front of frost-covered enemies. Of course, some people think it's like drinking bath water.",
@@ -9906,7 +9880,6 @@
     }
   },
   "13012": {
-    "Id": 13012,
     "CodeName": "Weapon_A_Common_12",
     "Name": "Puzzle Sphere",
     "Desc": "While it can be seen as an item to boost combat performance, it is also a uniquely shaped puzzle. The inspiration behind this W-Engine is said to have come from the designer's childhood, when a similar puzzle his mother made by hand helped him get through tired mornings and dreary afternoons. He poured his deep longing for his mother into the W-Engine and this longing brings the user a sense of comfort: holding the sphere is like returning to a childhood where, after a nightmare, you'd run to your mother's side for protection.",
@@ -10287,7 +10260,6 @@
     }
   },
   "13013": {
-    "Id": 13013,
     "CodeName": "Weapon_A_Common_13",
     "Name": "Gilded Blossom",
     "Desc": "A W-Engine that represents the brilliance and magnificence of flowers, seemingly crafted from the most luxurious materials. However, after finally dismantling the Ether-powered premium anti-theft device, an experienced thief will discover with terror that this W-Engine... is only gold plated.",
@@ -10668,7 +10640,6 @@
     }
   },
   "13014": {
-    "Id": 13014,
     "CodeName": "Weapon_A_Common_14",
     "Name": "Radiowave Journey",
     "Desc": "Not content with repeatedly listening to the same albums' melodies, and unwilling to stay stuck in the same Hollow scenery. Even among the travelers who wander the Hollows, there are those romantic adventurers, poets of sorts, who go too far. \"Radiowave Journey\" is designed specifically for these romantic fools. Its additional radio module can convert Etheric frequencies into musical melodies, playing different styles of music depending on the type of Hollow you're in.",
@@ -11049,7 +11020,6 @@
     }
   },
   "13015": {
-    "Id": 13015,
     "CodeName": "Weapon_A_Common_15",
     "Name": "Marcato Desire",
     "Desc": "Art can save those drowning in life. Mortals gather together, music of different emotions collide, and the drying graffiti on the wall speaks of a thousand unique forms of agency.\nNow, turn up the music until the soundwaves crash the Hollow. Even if Ethereals don't have ears, let's make them feel the power of humanity!",
@@ -11430,7 +11400,6 @@
     }
   },
   "13016": {
-    "Id": 13016,
     "CodeName": "Weapon_A_Common_16",
     "Name": "Reel Projector",
     "Desc": "It's not surprising when a film student does something outrageous, but this fan of Hollow-themed films from the renowned New Eridu film school still drew a rebuke from W-engine craftsmen: \"You DO know that W-Engines are for sound right, and not visuals?\"",
@@ -11811,12 +11780,11 @@
     }
   },
   "13019": {
-    "Id": 13019,
     "CodeName": "Weapon_A_Common_19",
     "Name": "Cauldron of Clarity",
-    "Desc": "...",
+    "Desc": "Countless threads of Sword Will pulse like heartbeats, echoing through this tiny stretch of sky. Just don't get too close and don't try to make sense of the world inside the cauldron with your own ears. Those echoes have already been twisted into the brain-melting chant of \"Ehn-ne ehn-ne.\"",
     "Desc2": "Equip to increase Rupture Agents' combat capabilities",
-    "Desc3": "...",
+    "Desc3": "Countless threads of Sword Will echo through this tiny stretch of sky.",
     "Rarity": 3,
     "Icon": "https://api.hakush.in/zzz/UI/Weapon_A_Common_19.webp",
     "WeaponType": {
@@ -12192,7 +12160,6 @@
     }
   },
   "13101": {
-    "Id": 13101,
     "CodeName": "Weapon_A_1011",
     "Name": "Demara Battery Mark II",
     "Desc": "This customized W-Engine Core focuses on power storage and has been modified to enhance power storage functions. It can effectively boost Zap damage output for weapons, and is the gadget store owner's piece de resistance. Not long after, Anby made some tweaks based on user habits, but judging by how serious and careful she is while conducting each maintenance session, these are probably not the safest of modifications.\n\n<color=#959595>\"Weapons SHOULD be dangerous. If it can't shock me, then how is it going to shock the enemy?\" — Anby's response while carefully performing maintenance</color>",
@@ -12573,7 +12540,6 @@
     }
   },
   "13103": {
-    "Id": 13103,
     "CodeName": "Weapon_A_1031",
     "Name": "The Vault",
     "Desc": "A cost-effective W-Engine that focuses on energy storage. After Nicole modified its internal space, it can now be used as a storage box. While the gold coins stored inside are fake, they may catch greedy Hollow Raiders off guard. Or rather, the operator can simply toss the heavy coins at them and knock them out.\n\n<color=#959595>\"Hurts, doesn't it? Impressive, right? Hmph, that's just what money can do!\" — Nicole, gloating after defeating an enemy</color>",
@@ -12954,7 +12920,6 @@
     }
   },
   "13106": {
-    "Id": 13106,
     "CodeName": "Weapon_A_1061",
     "Name": "Housekeeper",
     "Desc": "An enhanced W-Engine with a high rotation speed. Corin has integrated its shaft portion with a chainsaw to provide additional cutting power for her \"cleaning\" work. To ensure that her \"cleaning\" goes smoothly and to minimize the pain inflicted on her target, she has thoughtfully increased the rotation speed to the maximum.\n\n<color=#959595>\"Um... Don't worry, it won't hurt! Well... I mean, it will only hurt for a moment, and then it won't hurt anymore!\" — Corin, attempting to comfort her opponent before attacking</color>",
@@ -13335,7 +13300,6 @@
     }
   },
   "13108": {
-    "Id": 13108,
     "CodeName": "Weapon_A_1081",
     "Name": "Starlight Engine Replica",
     "Desc": "A custom supercomputing W-Engine which specializes in aim assist and calculating trajectories, it looks more like some kind of pirated Starlight Knight figurine now that Billy's finished his modifications. It flashes brightly whenever an enemy is detected, and shouts out pre-set quotes. Despite this move clearly exposing one's location and attracting the enemy, this is not an issue for Billy so long as everything is cool enough.\n\n<color=#959595>\"COPY? How can you call that a copy?! I've poured all my passion, wisdom, soul, and moisture into this! Apart from summoning a shooting star to transform me — this is real deal, bona fide Starlight Knight equipment!\" — Billy, enthusiastically outlining his modding philosophy</color>",
@@ -13716,7 +13680,6 @@
     }
   },
   "13111": {
-    "Id": 13111,
     "CodeName": "Weapon_A_1111",
     "Name": "Drill Rig - Red Axis",
     "Desc": "Originally a high-rev W-Engine, it has been modified by Anton with the most expensive rotary drill parts. These modifications allow the engine to temporarily exceed its output limits, enabling it to better serve Anton's \"bro.\" When it comes to anything involving his \"bro,\" Anton spares no expense.\n\n<color=#959595>\"Ben bought the materials, Grace helped with the modding, and the force was signed off by the president herself... Bro, the blessings of all Belobog are inside you. Let's do this!\" — Anton muttering to himself the first time he starts it up</color>",
@@ -14097,7 +14060,6 @@
     }
   },
   "13112": {
-    "Id": 13112,
     "CodeName": "Weapon_A_1121",
     "Name": "Big Cylinder",
     "Desc": "This super-powerful support W-Engine, into which Ben installed extra heavy oil cylinders to keep it growling along, can even provide sufficient power for heavy-duty machinery. Despite its weight being so massive that ordinary people cannot lift it, for Ben, it's the perfect counterweight ball for his concrete pillar.\n\n<color=#959595>\"Don't worry. I've calculated the counterweight position and impact resistance factor down to four decimal places. It won't impact weapon performance.\" — Ben, before taking out his notebook to check over the calculations yet again</color>",
@@ -14478,7 +14440,6 @@
     }
   },
   "13113": {
-    "Id": 13113,
     "CodeName": "Weapon_A_1131",
     "Name": "Bashful Demon",
     "Desc": "An intricate W-Engine developed by Section 6 and later modified using the technology of a certain martial arts clan. It can control Ether particles to form an energy field and boasts a terrifying appearance that can easily silence a crying child! If you are unfortunate enough to face its wicked stare, then just wait until it unfurls its fangs. What lies inside is... Don't laugh! This poor little thing really hurts when it hits you!\n\n<color=#959595>\"Hmm... Instead of a cool mask, I'd rather carry another lunchbox... I'll go ask Nagi if I can pack some snacks in it!\" — Soukaku, excitedly running to the Section 6 office</color>",
@@ -14859,7 +14820,6 @@
     }
   },
   "13115": {
-    "Id": 13115,
     "CodeName": "Weapon_A_1151",
     "Name": "Kaboom the Cannon",
     "Desc": "A support W-Engine propelled by jets that is both mobile and impactful, it can traverse the entire battlefield providing combat buffs. Not only is it practical, but it's the biggest imaginary enemy and most-feared sparring partner of Grassy, Woody, and Bricky. The little boars can hear Lucy say in their nightmares.\n\n<color=#959595>\"If you can't do it, go train with Kaboom!\" — Lucy, lecturing her three loyal guard boars</color>",
@@ -15240,7 +15200,6 @@
     }
   },
   "13127": {
-    "Id": 13127,
     "CodeName": "Weapon_A_1271",
     "Name": "Peacekeeper - Specialized",
     "Desc": "A defensive W-Engine independently researched and created by Public Security with special emphasis on enhancing the energy conversion ability in its shield. Rumor has it that this model of W-Engine became the standard for all supporting units in Hollow operations due to an unknown member of the top brass pushing for mass production.\n\n<color=#959595>\"Even if you took it apart and rebuilt it into an actual physical shield, it would still be extremely sturdy... but it really is super heavy!\" —Seth, musing aloud as he studies the extremely expensive material of the W-Engine</color>",
@@ -15621,7 +15580,6 @@
     }
   },
   "13128": {
-    "Id": 13128,
     "CodeName": "Weapon_A_1281",
     "Name": "Roaring Ride",
     "Desc": "This energy W-Engine, modded from spare parts of a truck's engine, converts the original cylinder into an energy storage unit, which is highly advantageous. It placed first in the internal Leaps and Bounds competition, surpassing many heavy-duty motorbikes and even a truck driven by Piper herself.\n\n<color=#959595>\"Too bad there's no way to carry cargo... Maybe we can hang it on the tusks?\" — Piper, top-notch logistics driver</color>",
@@ -16002,7 +15960,6 @@
     }
   },
   "13135": {
-    "Id": 13135,
     "CodeName": "Weapon_A_1351",
     "Name": "Box Cutter",
     "Desc": "This W-Engine's design was originally much more modest. The focus during its creation was on offensive capability and stealth until its owner met a group of curious and loud individuals who had no concept of subtlety. Not only did they put flashy stickers on it, but after injuring their fingers, they often used it to cut ropes, open boxes, and even slice through sticky tape...\n\"That... yeah, that box cutter, lemme borrow it, thanks!\" \"Boss, it's not a box cutter, it's called Hidden Claw!\" \"Hey, Kitty, lemme borrow your box cutter!\" \"It's not a box cutter, it's called Hidden Claw!\" \"Mind if lil ol me takes your box cutter for a mo?\" \"...\"\n\n<color=#959595>\"Fine, it's a box cutter. Whatever makes you happy.\" — Pulchra</color>",
@@ -16383,7 +16340,6 @@
     }
   },
   "13142": {
-    "Id": 13142,
     "CodeName": "Weapon_A_1421",
     "Name": "Tremor Trigram Vessel",
     "Desc": "The art of acupoint is much like a chef in the kitchen. First, you explore the meridians, which is like rinsing the ingredients; then, you warm your palms, akin to heating the pan; and with two fingers pressing on the laughter point, the sound of laughter is like stir-frying. Practitioners must never recklessly strike a person's fatal point — it's like pouring hot oil into a stove, causing a disaster.\n\n<color=#959595>\"This little ball is darting between the acupoints, just like the fish balls I fling when making stir-fried noodles on the hot iron plate.\" —Pan Yinhu, distracted by random thoughts while doing acupoint memory training with a wooden panda sculpture.</color>",
@@ -16764,7 +16720,6 @@
     }
   },
   "13144": {
-    "Id": 13144,
     "CodeName": "Weapon_A_1441",
     "Name": "Grill O'Wisp",
     "Desc": "Under the stars at midnight, the artisan raised this tool, awakening slumbering flames. Amid the misty dark, it was the lone flame that refused to die.\nIts body gleamed black with a crimson sheen, etched with cryptic markings. Was it an ancient relic, a mere toy, or a legendary weapon? Only its wielder knew the truth.\n\n<color=#959595>\"It's nothing more than a fire-starting tool... but I can't deny it's useful.\" —So he would say, each time someone guessed it served some impressive function.</color>",
@@ -17145,7 +17100,6 @@
     }
   },
   "14001": {
-    "Id": 14001,
     "CodeName": "Weapon_S_Common_01",
     "Name": "Cannon Rotor",
     "Desc": "A high-performance supercomputing W-Engine, capable of collecting real-time data on the battlefield and providing tactical support to its operator. Additionally, it is equipped with mini cannons and can even be deployed as an automatic combat unit in critical moments. In such situations, the operator may become more of a hindrance than a help.",
@@ -17526,7 +17480,6 @@
     }
   },
   "14002": {
-    "Id": 14002,
     "CodeName": "Weapon_S_Common_02",
     "Name": "Unfettered Game Ball",
     "Desc": "A new supercomputing W-Engine, featuring cutting-edge integrated chips that dynamically monitor the battlefield and provide tactical analysis for its user. Furthermore, this W-Engine can serve as a portable console, allowing its user to play the most popular video games anytime, anywhere. However, it is not advisable to use the speakers while playing games... Especially not in Hollow areas frequented by Ethereals.",
@@ -17907,7 +17860,6 @@
     }
   },
   "14003": {
-    "Id": 14003,
     "CodeName": "Weapon_S_Common_03",
     "Name": "Six Shooter",
     "Desc": "A special W-Engine modeled after a revolver. It can apparently load six bullet-shaped condensed Ether batteries, which release a significant amount of power when fired. It is said that as long as you carry this W-Engine, you will be able to spontaneously learn how to whistle and will occasionally reference old movies in a cowboy voice.",
@@ -18288,7 +18240,6 @@
     }
   },
   "14102": {
-    "Id": 14102,
     "CodeName": "Weapon_S_1021",
     "Name": "Steel Cushion",
     "Desc": "A supercomputing W-Engine equipped with an enhanced motion monitoring feature, perfectly matching the fast reflexes and combat maneuvers of Cat Thirens. Nekomata has added a foldable knife to its casing. Despite claiming that this design is to facilitate her in battle, the knife has fresh mackerel stains smeared onto it...\n\n<color=#959595>\"Lots of people call me a clever clogs for doing this mod, but when you're out on the streets, you gotta put everything you can to good use: Every little trick, every little thought, every little hustle... And look! A little kitty!\" — Nekomata, diverting attention away while secretly trying to fish out the listener's wallet</color>",
@@ -18669,7 +18620,6 @@
     }
   },
   "14104": {
-    "Id": 14104,
     "CodeName": "Weapon_S_1041",
     "Name": "The Brimstone",
     "Desc": "A violent Obsidian Division W-Engine forged with fire and filled with a forbidden fuel that has been reprocessed using Ether-technology. Its intense heat can be used to clear the entire battlefield. Rumor has it that its designer was exchanging W-Engine design ideas with Soldier 11 over dinner. After an hour spent enjoying extra spicy noodles, she decided to bring extra spicy revenge to her enemies.\n\n<color=#959595>\"I really like it. It's stable, efficient, and practical. The high temperature can clean the battle residue off my blade and even disinfect wounds when needed... Why are you sitting so far away?\" — Soldier 11, introducing her W-Engine to her teammates</color>",
@@ -19050,7 +19000,6 @@
     }
   },
   "14105": {
-    "Id": 14105,
     "CodeName": "Weapon_S_1051",
     "Name": "Kraken's Cradle",
     "Desc": "Most inspiration streaks by like a meteor, vanishing in a blink. Yet while modifying this W-Engine, a surge of powerful emotion sparked an idea that anchored itself in her mind, refusing to fade. Not a shackle, nor a consuming force, but something treasured — something she longed to keep safe. That became the source of this W-Engine's design.\n\n<color=#959595>\"It's simply trying to guard the greatest treasure in this world, in the way it knows how.\" —She spoke softly, noticing the puzzled expressions on the Proxy siblings.</color>",
@@ -19431,7 +19380,6 @@
     }
   },
   "14107": {
-    "Id": 14107,
     "CodeName": "Weapon_S_1071",
     "Name": "Tusks of Fury",
     "Desc": "A multi-functional W- Engine specially designed with a motorcycle tire as the foundation. It boasts rapid speed, ferocious tearing power, solid defense, unexpectedly low energy consumption, and a domineering appearance. Apparently, this was initially just a toy that Big Daddy made for Caesar to play with, but every time Caesar played with it, it would end up in tatters. As a result, Big Daddy spent years reinforcing and modifying it over a hundred times, eventually creating this superb piece of equipment that can function as a weapon, shield, wheel, and even a light source.\n\n<color=#959595>\"It was originally supposed to also function as a piano, with keys embedded around the edge of the tire! But after a few tries, it didn't work out well. After spinning it a few times, I couldn't tell the correct notes apart, so I had to dismantle it... Fortunately, it can still be used as a fan when it gets hot.\" — Caesar, playfully flicking the W-Engine tire with her finger, whipping up a gust of wind.</color>",
@@ -19812,7 +19760,6 @@
     }
   },
   "14109": {
-    "Id": 14109,
     "CodeName": "Weapon_S_1091",
     "Name": "Hailstorm Shrine",
     "Desc": "Slaughter is endless. Kill, conquer, the fate of the cursed, a restless forbidden power. Only between battles, when rushing to the next frontline, does the foxfire enjoy a brief reprieve in its shrine.\nHow many more corpses, how many more sacrifices, how many more calamities until we reach the void on the other side?\nShe needs no answer. At the peak of martial power, the stench of blood will freeze in the air before being breathed in. Once all evil is eradicated, the world will be able to enter peaceful slumber with the blade sealed.\nHail falls before the shrine, waking the wielder of this power. The blizzard is coming.\n\n<color=#959595>\"Perfect for training... If I could shrink to its size, that is.\" —Miyabi, muttering to herself as she gazes at the interior.</color>",
@@ -20193,7 +20140,6 @@
     }
   },
   "14110": {
-    "Id": 14110,
     "CodeName": "Weapon_S_1101",
     "Name": "Hellfire Gears",
     "Desc": "This W-Engine is renowned for its ultra power. Modified by Koleda, its energy level has almost exceeded the safety limit. Although this W-Engine is entirely designed for damage output, and the Speedup and Blaze functions have been merged into one, this is precisely what Koleda wanted.\n\n<color=#959595>\"I've got a clear shot at your shins, you know? So you'd better think twice before saying I'm short, got it?\" — Koleda, warning a rude business partner</color>",
@@ -20574,7 +20520,6 @@
     }
   },
   "14114": {
-    "Id": 14114,
     "CodeName": "Weapon_S_1141",
     "Name": "The Restrained",
     "Desc": "This special W-Engine has the capability to create extreme low temperatures. Its radiator opening was designed with an eerie animal teeth decoration and often drips condensation. After Lycaon's improvements, its rough appearance has become much more refined and elegant, and the opening is now utilized to store envelopes and other keepsakes.\n\n<color=#959595>\"Manners aren't a leash for wildness; it enhances it before it's set free.\" — Lycaon, speaking gently during a tea party</color>",
@@ -20955,7 +20900,6 @@
     }
   },
   "14116": {
-    "Id": 14116,
     "CodeName": "Weapon_S_1161",
     "Name": "Blazing Laurel",
     "Desc": "A violent W-Engine that can ignite flames with a siphon. It deals simple and crude burn damage, encouraging relentless, bone-crushing follow-up attacks. Rumor has it that the liquid fluid within was once a secret weapon from an old civilization's empire that dominated naval warfare! The formula has long since been lost and recreating it is extremely difficult!\n\n<color=#959595>\"...Actually, all I said was that I wanted a backup lighter.\" —Lighter says as the user of this valuable fuel</color>",
@@ -21336,7 +21280,6 @@
     }
   },
   "14117": {
-    "Id": 14117,
     "CodeName": "Weapon_S_1171",
     "Name": "Flamemaker Shaker",
     "Desc": "Powered by a specially formulated fuel, this modified W-Engine is optimized to push combustion performance to the extreme. The engine operates by injecting fuel from the tank into the reaction chamber, where a high-pressure reaction device converts the fuel into searing flames, leaving behind a scorched aroma. It's rumored Nitro-Fuel can also be used as a power source, as there was a sighting of Burnice pouring one into the tank, and later scraping the remaining liquid back into a bar glass after the battle.\n\n<color=#959595>\"This is definitely slander from a competitor. The special drinks I serve to my customers are always clean and hygienic! The Nitro-Fuel that drains out from the tank is for my own consumption because the high-pressure concentration gives it a special taste!\" — Burnice, in defense of her professional reputation, oblivious to her customers unconsciously taking a step back.</color>",
@@ -21717,7 +21660,6 @@
     }
   },
   "14118": {
-    "Id": 14118,
     "CodeName": "Weapon_S_1181",
     "Name": "Fusion Compiler",
     "Desc": "Embedded with a supercomputer core, this latest-model W-Engine can compile operating code for machines at an astonishing speed, or quickly collect battlefield data to provide support for the whole squad. Of course, for Grace, this W-Engine is just a little toy for her to communicate with her \"silicon-based children.\"\n\n<color=#959595>\"Looking carefully... you're handsome in your own way! Oh, it says in the manual that once it's sealed, it shouldn't be opened... Hmmm... Well, how would we know if we don't give it a try?!\" — Grace, suddenly enthusiastic while holding the engine in her hand</color>",
@@ -22098,7 +22040,6 @@
     }
   },
   "14119": {
-    "Id": 14119,
     "CodeName": "Weapon_S_1191",
     "Name": "Deep Sea Visitor",
     "Desc": "This high-power W-Engine has the capability to rapidly lower the temperature of the environment, allowing it to instantly freeze nearby objects. Although it is an excellent tactical W-Engine due to its efficient freezing and high damage output, Ellen primarily uses it to make frappes.\n\n<color=#959595>\"I want to bring it to school, especially in the summer. But Lycaon and Rina won't let me... So annoying.\" — Ellen, shaking her head while eating ice</color>",
@@ -22479,7 +22420,6 @@
     }
   },
   "14120": {
-    "Id": 14120,
     "CodeName": "Weapon_S_1201",
     "Name": "Zanshin Herb Case",
     "Desc": "Medicine is neither benevolent nor cruel. It merely heals what it must and brings its own side effects.\nA warrior cares not how bitter and painful it may be to ingest. The ending is set in stone, so in order to shoot arrows that reach brighter places, he can do nothing but swallow them all.\n\n<color=#959595>\"There's a medicine that is real useful for faking sickness to get sick leave. If you don't take it with other stuff, it'll give you a brief fever. Unfortunately, it's pretty expensive, and it's not included in health insurance...\" —Harumasa, sharing his insights into how to slack off.</color>",
@@ -22860,7 +22800,6 @@
     }
   },
   "14121": {
-    "Id": 14121,
     "CodeName": "Weapon_S_1211",
     "Name": "Weeping Cradle",
     "Desc": "A special W-Engine with multiple layers embedded inside. It contains a special Ether charging layer that can quickly recharge special-model Bangboo and custom-made combat equipment. Even though this W-Engine looks like a cruel confinement chamber, Rina's Bangboo seem to enjoy sneaking in there to recharge their batteries. They even treat resting inside as a cozy reward.\n\n<color=#959595>\"Shhh... The two little ones are resting; if they're woken suddenly they'll be sure to cause a ruckus. Let's avoid making any noise while we enjoy our tea.\" — Rina, giving a gentle reminder as she serves tea to friends</color>",
@@ -23241,7 +23180,6 @@
     }
   },
   "14122": {
-    "Id": 14122,
     "CodeName": "Weapon_S_1221",
     "Name": "Timeweaver",
     "Desc": "A new model of supercomputing W-Engine custom-made by HSO Section 6, equipped with the most elite calculation and analysis functions, precisely records the user's time active and physical state to calculate the best plan of action. Embedded within is Yanagi's prized watch, but each time the W-Engine is turned on, the hands of the clock face go whirling around from the Ether energy, and it can no longer be used to accurately tell time. So, when she uses the time on here to tell you that you should hurry and be more efficient if you don't want to be late completing your mission, don't believe her.\n\n<color=#959595>\"So you're saying this is the ultimate weapon against time? I see, as the watch in the W-Engine moves so fast, the time it goes past is 'killed' so to speak, therefore it's a weapon against time... However, time in the real world does not actually change from this. No matter how fast the watch goes, it cannot kill time faster. Though the concept is decent, this punchline is only a six out of ten in my eyes.\" —Tsukishiro Yanagi, replying to her colleague's off-hand joke with complete seriousness</color>",
@@ -23622,7 +23560,6 @@
     }
   },
   "14124": {
-    "Id": 14124,
     "CodeName": "Weapon_S_1241",
     "Name": "Riot Suppressor Mark VI",
     "Desc": "The latest tactical W-Engine used by Public Security's elite Hollow squads. It uses a powerful Ether energy source to supply all combat equipment with explosive power for a short period of time. Although the W-Engines of many elite squad members often suffer from prolonged combat, Zhu Yuan's is in perfect condition. She treats it with utmost care and carefully maintains it, keeping it looking completely brand new.\n\n<color=#959595>\"Non-woven fabric, brush, lubricant, rust remover... alright, ready to go. Timer... starting now!\" — Zhu Yuan, timing herself as she starts maintenance, aiming to beat her previous record</color>",
@@ -24003,7 +23940,6 @@
     }
   },
   "14125": {
-    "Id": 14125,
     "CodeName": "Weapon_S_1251",
     "Name": "Ice-Jade Teapot",
     "Desc": "A custom stun W-Engine made for an Automaton referencing the combat style and abilities of one. Energy is stored within, then lashes outwards upon conversion. The texture seeks to imitate fine artistry that was once highly sought after in ancient civilizations: Burn to procure what is sleek and elegant, shatter to create what is unyielding and sharp; this heat-proof pot bears a sacred bird shape with, as its name suggests, a unique pattern of ice-cracked celadon... but actually that pattern was drawn on.\n\n<color=#959595>\"It fares well in preserving temperature, and I can drink hot water whenever I need even in a Hollow.\" —Qingyi, giving her honest and carefully contemplated review</color>",
@@ -24384,7 +24320,6 @@
     }
   },
   "14126": {
-    "Id": 14126,
     "CodeName": "Weapon_S_1261",
     "Name": "Sharpened Stinger",
     "Desc": "A deadly W-Engine from unknown sources, modified personally by Jane Doe with the intent to deal severe physical damage and Anomaly. The power circulation system within ensures the affliction of Anomalies and the edges of the exterior have been honed until they're razor-sharp to inflict unexpected tearing damage.\n\n<color=#959595>\"What, am I meant to adhere to duel etiquette with an Ethereal? Isn't it polite to end its pain in the quickest way possible?\" —Jane, in response to \"aren't your combat techniques a little too cruel\"</color>",
@@ -24765,7 +24700,6 @@
     }
   },
   "14129": {
-    "Id": 14129,
     "CodeName": "Weapon_S_1291",
     "Name": "Myriad Eclipse",
     "Desc": "A refined collector, a cunning phantom thief, a loathsome swindler, an arrogant, self-important bastard...\nThe world has a thousand identities for him. The elite despise his very presence, while the common folk hail him as a symbol of justice. In the alleys, they talk of him as a criminal legend walking the razor's edge. Among nobles, speaking of him is like lifting the lid of a cursed tomb.\nHe wears a thousand masks — yet none reveal who he truly is.\n\n<color=#959595>\"I'll live on in a thousand different tales.\" — Hugo</color>",
@@ -25146,7 +25080,6 @@
     }
   },
   "14130": {
-    "Id": 14130,
     "CodeName": "Weapon_S_1301",
     "Name": "Bellicose Blaze",
     "Desc": "While developing this W-Engine, Captain Magus stood nearby repeating, \"Not hot enough, not intense enough,\" pushing the maker to keep raising the temperature — right up to the brink of the material's melting point. The poor craftsman had to endure Magus's grumbling, Orphie's apologies, and suffocating steam to get the job done. Finally, with a sharp whine from the pressure, the special W-Engine emerged from its hellish forge — refined through fire and hammering, and cooled with a roar rivaling its master.\n\n<color=#959595>\"Captain, why are you always so angry?\"\n\"I'm a gun, Orphie. All that flows through my chamber is metal and gunpowder.\"\n—For the first time, Orphie saw a trace of sorrow in the weapon she called \"Captain.\"</color>",
@@ -25527,7 +25460,6 @@
     }
   },
   "14131": {
-    "Id": 14131,
     "CodeName": "Weapon_S_1311",
     "Name": "Elegant Vanity",
     "Desc": "Light gradually begins to appear, and dazzling colors leak from the box, blurring the boundary between reality and fantasy. They reveal untold secrets behind the stage, where wealth and peril silently mingle, drawing in the observer and holding their gaze.\n\n<color=#959595>\"This is my secret weapon~ All the gentleness, allure, strength, pride, and radiance of a girl are hidden inside!\"\n—Astra, blending her lip color with her ring finger, then closing the vanity case with a playful smile.</color>",
@@ -25908,7 +25840,6 @@
     }
   },
   "14132": {
-    "Id": 14132,
     "CodeName": "Weapon_S_1321",
     "Name": "Heartstring Nocturne",
     "Desc": "The soft hum of hidden strings and faint light blooming in the deep night, where sharpness and calm intertwine, transforming into a silent melody. Thread by thread, it captures everything held dear within.\n\n<color=#959595>\"This? It's just a device for storing instrument strings.\"\n—Evelyn, gently strumming the strings. A low hum fills the air, and as the final note echoes, the enemy falls silent.</color>",
@@ -26289,7 +26220,6 @@
     }
   },
   "14133": {
-    "Id": 14133,
     "CodeName": "Weapon_S_1331",
     "Name": "Flight of Fancy",
     "Desc": "Birds in flight, stars in the sky, blossoms, parasols, and swirling skirts — unspoken feelings, yet emotions laid bare. Only when the moon begins to sigh does the flower bud dare to bloom, releasing a joyous bird. It weaves through the stars, gathering glimmers of starlight, and before dawn breaks, it lands beneath your eaves... shaking off a night full of whispered love.\n\n<color=#959595>\"Lord Phaethon needs only Vivian. Lord Phaethon loves only Vivian. Lord Phaethon sees only Vivian... Chant that to it for 178 days, and you can give it to Lord Phaethon.\" — Vivian, fortune telling and voodoo are not scientific and offer no real value. Do not attempt them lightly</color>",
@@ -26670,12 +26600,11 @@
     }
   },
   "14134": {
-    "Id": 14134,
     "CodeName": "Weapon_S_1341",
     "Name": "Half-Sugar Bunny",
-    "Desc": "...",
+    "Desc": "100% cold, and 120% sweet. The maker says it's his best custom W-Engine of the year. \"So, Miss Zhao, what do you think? I've named this one 'Full-Sugar Bunny.' Fits your style, right? Huh? Change it to Half-Sugar? But why...? Ah, no no, you're the client, you get to name it however you like!\"\n\n<color=#959595>\"Equivalent exchange means finding a balance — not a bit more, not a bit less.\" —That was Xiao'Zhao's answer after Dialyn asked her several times, \"What's wrong with full-sugar?\"</color>",
     "Desc2": "Equip to increase Defense Agents' combat capabilities",
-    "Desc3": "...",
+    "Desc3": "Not too sweet, and not too cold.",
     "Rarity": 4,
     "Icon": "https://api.hakush.in/zzz/UI/Weapon_S_1341.webp",
     "WeaponType": {
@@ -27030,28 +26959,27 @@
     "Talents": {
       "1": {
         "Name": "Fragile Sweetness",
-        "Desc": "The equipper's Energy Regen increases by <color=#2BAD00>0.46</color>/s. All squad members gain <color=#2BAD00>10%</color> ATK and <color=#2BAD00>10%</color> Max HP. Only one instance of this effect can exist in the same squad. When the equipper activates or extends an <color=#FFFFFF>Ether Veil</color>, the whole squad gains <color=#2BAD00>30%</color> CRIT DMG for 60s. Repeated triggers reset the duration."
+        "Desc": "The equipper's Energy Regen increases by <color=#2BAD00>0.46</color>/s. All squad members gain <color=#2BAD00>10%</color> ATK and <color=#2BAD00>10%</color> Max HP. Only one instance of this effect can exist in the same squad. When the equipper activates or extends an <color=#FFFFFF>Ether Veil</color>, all squad members gain <color=#2BAD00>30%</color> CRIT DMG for 60s. Repeated triggers reset the duration."
       },
       "2": {
         "Name": "Fragile Sweetness",
-        "Desc": "The equipper's Energy Regen increases by <color=#2BAD00>0.53</color>/s. All squad members gain <color=#2BAD00>11.5%</color> ATK and <color=#2BAD00>11.5%</color> Max HP. Only one instance of this effect can exist in the same squad. When the equipper activates or extends an <color=#FFFFFF>Ether Veil</color>, the whole squad gains <color=#2BAD00>34.5%</color> CRIT DMG for 60s. Repeated triggers reset the duration."
+        "Desc": "The equipper's Energy Regen increases by <color=#2BAD00>0.53</color>/s. All squad members gain <color=#2BAD00>11.5%</color> ATK and <color=#2BAD00>11.5%</color> Max HP. Only one instance of this effect can exist in the same squad. When the equipper activates or extends an <color=#FFFFFF>Ether Veil</color>, all squad members gain <color=#2BAD00>34.5%</color> CRIT DMG for 60s. Repeated triggers reset the duration."
       },
       "3": {
         "Name": "Fragile Sweetness",
-        "Desc": "The equipper's Energy Regen increases by <color=#2BAD00>0.6</color>/s. All squad members gain <color=#2BAD00>13%</color> ATK and <color=#2BAD00>13%</color> Max HP. Only one instance of this effect can exist in the same squad. When the equipper activates or extends an <color=#FFFFFF>Ether Veil</color>, the whole squad gains <color=#2BAD00>39%</color> CRIT DMG for 60s. Repeated triggers reset the duration."
+        "Desc": "The equipper's Energy Regen increases by <color=#2BAD00>0.6</color>/s. All squad members gain <color=#2BAD00>13%</color> ATK and <color=#2BAD00>13%</color> Max HP. Only one instance of this effect can exist in the same squad. When the equipper activates or extends an <color=#FFFFFF>Ether Veil</color>, all squad members gain <color=#2BAD00>39%</color> CRIT DMG for 60s. Repeated triggers reset the duration."
       },
       "4": {
         "Name": "Fragile Sweetness",
-        "Desc": "The equipper's Energy Regen increases by <color=#2BAD00>0.67</color>/s. All squad members gain <color=#2BAD00>14.5%</color> ATK and <color=#2BAD00>14.5%</color> Max HP. Only one instance of this effect can exist in the same squad. When the equipper activates or extends an <color=#FFFFFF>Ether Veil</color>, the whole squad gains <color=#2BAD00>43.5%</color> CRIT DMG for 60s. Repeated triggers reset the duration."
+        "Desc": "The equipper's Energy Regen increases by <color=#2BAD00>0.67</color>/s. All squad members gain <color=#2BAD00>14.5%</color> ATK and <color=#2BAD00>14.5%</color> Max HP. Only one instance of this effect can exist in the same squad. When the equipper activates or extends an <color=#FFFFFF>Ether Veil</color>, all squad members gain <color=#2BAD00>43.5%</color> CRIT DMG for 60s. Repeated triggers reset the duration."
       },
       "5": {
         "Name": "Fragile Sweetness",
-        "Desc": "The equipper's Energy Regen increases by <color=#2BAD00>0.74</color>/s. All squad members gain <color=#2BAD00>16%</color> ATK and <color=#2BAD00>16%</color> Max HP. Only one instance of this effect can exist in the same squad. When the equipper activates or extends an <color=#FFFFFF>Ether Veil</color>, the whole squad gains <color=#2BAD00>48%</color> CRIT DMG for 60s. Repeated triggers reset the duration."
+        "Desc": "The equipper's Energy Regen increases by <color=#2BAD00>0.74</color>/s. All squad members gain <color=#2BAD00>16%</color> ATK and <color=#2BAD00>16%</color> Max HP. Only one instance of this effect can exist in the same squad. When the equipper activates or extends an <color=#FFFFFF>Ether Veil</color>, all squad members gain <color=#2BAD00>48%</color> CRIT DMG for 60s. Repeated triggers reset the duration."
       }
     }
   },
   "14136": {
-    "Id": 14136,
     "CodeName": "Weapon_S_1361",
     "Name": "Spectral Gaze",
     "Desc": "Her life was one of seeking. Seeking companions, enemies, the truth, warmth. She reached out time and again, only to have it slip through her fingers. If one day she finds the missing fragments of her incomplete soul, will she be able to hear the melody in the wind once more?\n\n<color=#959595>\"Target has returned to the second floor of the video store. It sounds like they're preparing to sleep. Update on their location has been filed.\" — Trigger, apparently tracking and documenting a particular target.</color>",
@@ -27432,7 +27360,6 @@
     }
   },
   "14137": {
-    "Id": 14137,
     "CodeName": "Weapon_S_1371",
     "Name": "Qingming Birdcage",
     "Desc": "Once a disciple of Yunkui, and now the sect leader.\nYunkui Summit has always upheld the duty of saving the world and helping others. Whenever Eridu faces disaster, a Yunkui disciple always steps up... until the day the old capital fell.\nTime can allow new cities to rise and turn the old capital into ruins, but it cannot erase the past.\nThough she traveled far and wide, trying to put the past behind her. Yet wherever she went, looking back, it always seemed as though everything was still right there in front of her.\n\n<color=#959595>\"Rivers may shift, but old dreams are hard to forget.\" —Yixuan</color>",
@@ -27813,7 +27740,6 @@
     }
   },
   "14138": {
-    "Id": 14138,
     "CodeName": "Weapon_S_1381",
     "Name": "Severed Innocence",
     "Desc": "If a storm subdued still has the power to save a certain person... The ringing of the old sword in its crate speaks of the \"good\" old days that one doesn't want to remember.\n\n<color=#959595>\"Nekomata, put it down. No, there's no secret... Nicole, please let me explain, she was the one who started it...\" — Anby, just a typical day with the Cunning Hares.</color>",
@@ -28194,7 +28120,6 @@
     }
   },
   "14139": {
-    "Id": 14139,
     "CodeName": "Weapon_S_1391",
     "Name": "Roaring Fur-nace",
     "Desc": "Goodbye to the fate of the past, goodbye to the childhood that slipped away so quickly, goodbye to my father's embrace and my mother's smile, goodbye to the claws and the stripes, goodbye to the unmoving mountains and the clouds that never linger, goodbye to my mentor and old friends, goodbye to me, goodbye to me.\nAs long as the world remembers, I once roared with courage.\n\n<color=#959595>\"Never fear! Your senior is here!\" —  Fufu's line when coming to the rescue.</color>",
@@ -28575,7 +28500,6 @@
     }
   },
   "14140": {
-    "Id": 14140,
     "CodeName": "Weapon_S_1401",
     "Name": "Practiced Perfection",
     "Desc": "The stars fell into the web of absolute order, just as it had years ago, reflected in the girl's clear gaze. Confidence, grace, resolve, courage, and love — now shaped into a sword of pride, held firmly in her grasp.\n\n<color=#959595>\"I want to 3D print a model that's perfectly symmetrical from every angle. I just need to input the command, right?\" —Alice, one minute before her W-Engine started billowing black smoke and shut down.</color>",
@@ -28956,7 +28880,6 @@
     }
   },
   "14141": {
-    "Id": 14141,
     "CodeName": "Weapon_S_1411",
     "Name": "Metanukimorphosis",
     "Desc": "This compact mini W-Engine was just a budget unit issued for her first Hollow field training at school, but Yuzuha's kept it ever since — its compact size makes it too convenient to give up.\nHer first modification boosted the W-Engine's power output. The second added two Ether-Anomaly-tuned components. The third attempted a rewiring of the internals, but caused a short circuit that burned a hole in her skirt. Manato helped with the fourth, repairing the heat conduction module damaged in the short circuit, though the meal she treated him to afterward cost enough to buy three new ones. The fifth upgrade installed a new resonance chamber, and the sixth improved its response to high-frequency signals from Drive Discs.\nAt last, it was perfect — a flawless, battle-ready device that could follow its owner through life and death! And yet—\n\"Dad, have you seen my W-Engine?\"\n\"It's over there! I redid the casing for you. It looked way too ugly before! Can't have people thinking my daughter has no taste!\"\n\"Dad! It's a W-Engine! You made it so flashy — what if it breaks?!\"\n\"Well then, don't go doing stuff that could break it!\"",
@@ -29337,7 +29260,6 @@
     }
   },
   "14143": {
-    "Id": 14143,
     "CodeName": "Weapon_S_1431",
     "Name": "Cloudcleave Radiance",
     "Desc": "From innocence to maturity, from confusion to resolve.\nThe long path ahead stretches on, and she grips her sword and presses forward, walking a path untrodden.\nUntil her blade flashes like a soaring swan, illuminating the clouds above.\n\n<color=#959595>\"Whenever I swing my sword, it grows warm... It's comforting.\" —Ye Shunguang</color>",
@@ -29697,28 +29619,27 @@
     "Talents": {
       "1": {
         "Name": "Jade Soul, Frozen Heart",
-        "Desc": "The equipper's DMG ignores <color=#2BAD00>20%</color> of the target's <color=#F0D12B>Physical RES</color>. When the equipper activates an <color=#FFFFFF>Ether Veil</color>, the equipper's DMG increases by <color=#2BAD00>20%</color> and CRIT DMG increases by <color=#2BAD00>20%</color> for 40s. Repeated triggers reset the duration."
+        "Desc": "The equipper's DMG ignores <color=#2BAD00>20%</color> of the target's <color=#F0D12B>Physical RES</color>. When the equipper activates an <color=#FFFFFF>Ether Veil</color>, the equipper's DMG increases by <color=#2BAD00>25%</color> and CRIT DMG increases by <color=#2BAD00>25%</color> for 40s. Repeated triggers reset the duration."
       },
       "2": {
         "Name": "Jade Soul, Frozen Heart",
-        "Desc": "The equipper's DMG ignores <color=#2BAD00>22%</color> of the target's <color=#F0D12B>Physical RES</color>. When the equipper activates an <color=#FFFFFF>Ether Veil</color>, the equipper's DMG increases by <color=#2BAD00>24%</color> and CRIT DMG increases by <color=#2BAD00>23%</color> for 40s. Repeated triggers reset the duration."
+        "Desc": "The equipper's DMG ignores <color=#2BAD00>22%</color> of the target's <color=#F0D12B>Physical RES</color>. When the equipper activates an <color=#FFFFFF>Ether Veil</color>, the equipper's DMG increases by <color=#2BAD00>28.7%</color> and CRIT DMG increases by <color=#2BAD00>28.7%</color> for 40s. Repeated triggers reset the duration."
       },
       "3": {
         "Name": "Jade Soul, Frozen Heart",
-        "Desc": "The equipper's DMG ignores <color=#2BAD00>24%</color> of the target's <color=#F0D12B>Physical RES</color>. When the equipper activates an <color=#FFFFFF>Ether Veil</color>, the equipper's DMG increases by <color=#2BAD00>28%</color> and CRIT DMG increases by <color=#2BAD00>26%</color> for 40s. Repeated triggers reset the duration."
+        "Desc": "The equipper's DMG ignores <color=#2BAD00>24%</color> of the target's <color=#F0D12B>Physical RES</color>. When the equipper activates an <color=#FFFFFF>Ether Veil</color>, the equipper's DMG increases by <color=#2BAD00>32.5%</color> and CRIT DMG increases by <color=#2BAD00>32.5%</color> for 40s. Repeated triggers reset the duration."
       },
       "4": {
         "Name": "Jade Soul, Frozen Heart",
-        "Desc": "The equipper's DMG ignores <color=#2BAD00>26%</color> of the target's <color=#F0D12B>Physical RES</color>. When the equipper activates an <color=#FFFFFF>Ether Veil</color>, the equipper's DMG increases by <color=#2BAD00>32%</color> and CRIT DMG increases by <color=#2BAD00>29%</color> for 40s. Repeated triggers reset the duration."
+        "Desc": "The equipper's DMG ignores <color=#2BAD00>26%</color> of the target's <color=#F0D12B>Physical RES</color>. When the equipper activates an <color=#FFFFFF>Ether Veil</color>, the equipper's DMG increases by <color=#2BAD00>36.2%</color> and CRIT DMG increases by <color=#2BAD00>36.2%</color> for 40s. Repeated triggers reset the duration."
       },
       "5": {
         "Name": "Jade Soul, Frozen Heart",
-        "Desc": "The equipper's DMG ignores <color=#2BAD00>28%</color> of the target's <color=#F0D12B>Physical RES</color>. When the equipper activates an <color=#FFFFFF>Ether Veil</color>, the equipper's DMG increases by <color=#2BAD00>36%</color> and CRIT DMG increases by <color=#2BAD00>32%</color> for 40s. Repeated triggers reset the duration."
+        "Desc": "The equipper's DMG ignores <color=#2BAD00>28%</color> of the target's <color=#F0D12B>Physical RES</color>. When the equipper activates an <color=#FFFFFF>Ether Veil</color>, the equipper's DMG increases by <color=#2BAD00>40%</color> and CRIT DMG increases by <color=#2BAD00>40%</color> for 40s. Repeated triggers reset the duration."
       }
     }
   },
   "14145": {
-    "Id": 14145,
     "CodeName": "Weapon_S_1451",
     "Name": "Dreamlit Hearth",
     "Desc": "Its origin cannot be dated, its craftsmanship beyond record. From appearance alone, it seems to be a relic of the old capital, preserved to this day by the Ether burning within its core.\nMany years later, the river washed it ashore on a shallow bank, where a young girl picked up the finely crafted toy. From then on, it stood in for her lost family, keeping her company each night, offering a small light in the dark.\n\n<color=#959595>\"Yeah, it's a super great night-light!\" —That's what Lucia said when asked.</color>",
@@ -30099,7 +30020,6 @@
     }
   },
   "14146": {
-    "Id": 14146,
     "CodeName": "Weapon_S_1461",
     "Name": "Cordis Germina",
     "Desc": "What is a \"heart\"?\n\nWhat is the weight of life?\n\nNo matter how many machines she takes apart, no matter how many flowers she tends to, she still can't find the answer.\n\nShe programmed the W-Engine to mimic her heartbeat exactly, hoping it would lead her to an answer. But as the rhythm echoed, she slowly drifted to sleep. In her dreams, Seed Sr. came to life — with a heartbeat of his own — and once again responded to her wild, wandering questions, just like he used to...\nHer journey continues along the long, endless circle.\n\n<color=#959595>\"Trigger's heartbeat is nice and steady. Soldier 11's is a bit fast. Orphie's picks up when the Captain scolds her, but it's kind of slow otherwise. As for you, Proxies~ Hmm, yours feels really intense?\" —Seed, pressing an ear against the chests of the Phaethon siblings to listen to their heartbeats.</color>",
@@ -30480,7 +30400,6 @@
     }
   },
   "14147": {
-    "Id": 14147,
     "CodeName": "Weapon_S_1471",
     "Name": "Wrathful Vajra",
     "Desc": "The Vajra with unquenchable rage — surely there's more to their cruelty than this. The warrior as steadfast as a mountain — surely there's more to their purity than this. The ascetic with a heart of flame — surely there's more to their suffering than this.\n\n<color=#959595>\"The craftsman was really fixated on the design of the lion's head... He said all the anger and courage were hidden in those eyes.\"\n—Banyue, who can't help but think the W-Engine looks a bit too much like himself.</color>",
@@ -30861,7 +30780,6 @@
     }
   },
   "14148": {
-    "Id": 14148,
     "CodeName": "Weapon_S_1481",
     "Name": "Yesterday Calls",
     "Desc": "Riiiing, riiing — every missed call from the Hollows will be answered by Krampus' top-tier customer service!\nThat playful line hardly captures the weight of old obsessions, grudges, and regrets carried through those calls. But in truth, it's the most earnest vow of one prepared to bear that burden.\n\n<color=#959595>\"Everyone else enters the Hollow armed to the teeth. Why am I the one carrying a bunch of phones?\" —Dialyn, venting to her boss about her assigned gear.</color>",
@@ -31238,6 +31156,766 @@
       "5": {
         "Name": "24/7",
         "Desc": "While off-field, the equipper's Energy Regen increases by <color=#2BAD00>2.3</color>/s. When the equipper deals <color=#F0D12B>Physical DMG</color> with an <color=#FFFFFF>EX Special Attack</color>, the Daze dealt by the equipper's attacks increases by <color=#2BAD00>14.5%</color> for 10s, stacking up to 3 times. At 3 stacks, all squad members gain <color=#2BAD00>48%</color> additional CRIT DMG for 40s. Repeated triggers reset the duration. Only one instance of this CRIT DMG boost effect can exist in the same squad."
+      }
+    }
+  },
+  "14149": {
+    "CodeName": "Weapon_S_1491",
+    "Name": "Song of Thoughts",
+    "Desc": "Item_Weapon_S_1491_Desc",
+    "Desc2": "Equip to increase Support Agents' combat capabilities",
+    "Desc3": "Item_Weapon_S_1491_ShortDesc",
+    "Rarity": 4,
+    "Icon": "https://api.hakush.in/zzz/UI/Weapon_S_1491.webp",
+    "WeaponType": {
+      "4": "Support"
+    },
+    "BaseProperty": {
+      "Name": "Base ATK",
+      "Name2": "Base ATK",
+      "Format": "{0:0.#}",
+      "Value": 48
+    },
+    "RandProperty": {
+      "Name": "Energy Regen",
+      "Name2": "Energy Regen",
+      "Format": "{0:0.#%}",
+      "Value": 2400
+    },
+    "Level": {
+      "0": {
+        "Exp": 50,
+        "Rate": 0,
+        "Rate2": 10000
+      },
+      "1": {
+        "Exp": 100,
+        "Rate": 1568,
+        "Rate2": 10000
+      },
+      "2": {
+        "Exp": 150,
+        "Rate": 3136,
+        "Rate2": 10000
+      },
+      "3": {
+        "Exp": 200,
+        "Rate": 4705,
+        "Rate2": 10000
+      },
+      "4": {
+        "Exp": 300,
+        "Rate": 6273,
+        "Rate2": 10000
+      },
+      "5": {
+        "Exp": 400,
+        "Rate": 7841,
+        "Rate2": 10000
+      },
+      "6": {
+        "Exp": 500,
+        "Rate": 9409,
+        "Rate2": 10000
+      },
+      "7": {
+        "Exp": 600,
+        "Rate": 10977,
+        "Rate2": 10000
+      },
+      "8": {
+        "Exp": 750,
+        "Rate": 12545,
+        "Rate2": 10000
+      },
+      "9": {
+        "Exp": 950,
+        "Rate": 14114,
+        "Rate2": 10000
+      },
+      "10": {
+        "Exp": 1200,
+        "Rate": 15682,
+        "Rate2": 9000
+      },
+      "11": {
+        "Exp": 1290,
+        "Rate": 17250,
+        "Rate2": 9000
+      },
+      "12": {
+        "Exp": 1380,
+        "Rate": 18818,
+        "Rate2": 9000
+      },
+      "13": {
+        "Exp": 1465,
+        "Rate": 20386,
+        "Rate2": 9000
+      },
+      "14": {
+        "Exp": 1555,
+        "Rate": 21954,
+        "Rate2": 9000
+      },
+      "15": {
+        "Exp": 1640,
+        "Rate": 23523,
+        "Rate2": 9000
+      },
+      "16": {
+        "Exp": 1735,
+        "Rate": 25091,
+        "Rate2": 9000
+      },
+      "17": {
+        "Exp": 1825,
+        "Rate": 26659,
+        "Rate2": 9000
+      },
+      "18": {
+        "Exp": 1910,
+        "Rate": 28227,
+        "Rate2": 9000
+      },
+      "19": {
+        "Exp": 2000,
+        "Rate": 29795,
+        "Rate2": 9000
+      },
+      "20": {
+        "Exp": 3120,
+        "Rate": 31363,
+        "Rate2": 8000
+      },
+      "21": {
+        "Exp": 3315,
+        "Rate": 32932,
+        "Rate2": 8000
+      },
+      "22": {
+        "Exp": 3510,
+        "Rate": 34500,
+        "Rate2": 8000
+      },
+      "23": {
+        "Exp": 3705,
+        "Rate": 36068,
+        "Rate2": 8000
+      },
+      "24": {
+        "Exp": 3900,
+        "Rate": 37636,
+        "Rate2": 8000
+      },
+      "25": {
+        "Exp": 4100,
+        "Rate": 39204,
+        "Rate2": 8000
+      },
+      "26": {
+        "Exp": 4295,
+        "Rate": 40772,
+        "Rate2": 8000
+      },
+      "27": {
+        "Exp": 4490,
+        "Rate": 42341,
+        "Rate2": 8000
+      },
+      "28": {
+        "Exp": 4685,
+        "Rate": 43909,
+        "Rate2": 8000
+      },
+      "29": {
+        "Exp": 4880,
+        "Rate": 45477,
+        "Rate2": 8000
+      },
+      "30": {
+        "Exp": 7200,
+        "Rate": 47045,
+        "Rate2": 7000
+      },
+      "31": {
+        "Exp": 7600,
+        "Rate": 48613,
+        "Rate2": 7000
+      },
+      "32": {
+        "Exp": 8000,
+        "Rate": 50181,
+        "Rate2": 7000
+      },
+      "33": {
+        "Exp": 8400,
+        "Rate": 51750,
+        "Rate2": 7000
+      },
+      "34": {
+        "Exp": 8800,
+        "Rate": 53318,
+        "Rate2": 7000
+      },
+      "35": {
+        "Exp": 9200,
+        "Rate": 54886,
+        "Rate2": 7000
+      },
+      "36": {
+        "Exp": 9600,
+        "Rate": 56454,
+        "Rate2": 7000
+      },
+      "37": {
+        "Exp": 10000,
+        "Rate": 58022,
+        "Rate2": 7000
+      },
+      "38": {
+        "Exp": 10400,
+        "Rate": 59590,
+        "Rate2": 7000
+      },
+      "39": {
+        "Exp": 10800,
+        "Rate": 61159,
+        "Rate2": 7000
+      },
+      "40": {
+        "Exp": 11400,
+        "Rate": 62727,
+        "Rate2": 6000
+      },
+      "41": {
+        "Exp": 12200,
+        "Rate": 64295,
+        "Rate2": 6000
+      },
+      "42": {
+        "Exp": 13000,
+        "Rate": 65863,
+        "Rate2": 6000
+      },
+      "43": {
+        "Exp": 13800,
+        "Rate": 67431,
+        "Rate2": 6000
+      },
+      "44": {
+        "Exp": 14600,
+        "Rate": 68999,
+        "Rate2": 6000
+      },
+      "45": {
+        "Exp": 15400,
+        "Rate": 70568,
+        "Rate2": 6000
+      },
+      "46": {
+        "Exp": 16200,
+        "Rate": 72136,
+        "Rate2": 6000
+      },
+      "47": {
+        "Exp": 17000,
+        "Rate": 73704,
+        "Rate2": 6000
+      },
+      "48": {
+        "Exp": 17800,
+        "Rate": 75272,
+        "Rate2": 6000
+      },
+      "49": {
+        "Exp": 18600,
+        "Rate": 76840,
+        "Rate2": 6000
+      },
+      "50": {
+        "Exp": 22800,
+        "Rate": 78408,
+        "Rate2": 5000
+      },
+      "51": {
+        "Exp": 24400,
+        "Rate": 79977,
+        "Rate2": 5000
+      },
+      "52": {
+        "Exp": 26000,
+        "Rate": 81545,
+        "Rate2": 5000
+      },
+      "53": {
+        "Exp": 27600,
+        "Rate": 83113,
+        "Rate2": 5000
+      },
+      "54": {
+        "Exp": 29200,
+        "Rate": 84681,
+        "Rate2": 5000
+      },
+      "55": {
+        "Exp": 30800,
+        "Rate": 86249,
+        "Rate2": 5000
+      },
+      "56": {
+        "Exp": 32400,
+        "Rate": 87817,
+        "Rate2": 5000
+      },
+      "57": {
+        "Exp": 34000,
+        "Rate": 89386,
+        "Rate2": 5000
+      },
+      "58": {
+        "Exp": 35600,
+        "Rate": 90954,
+        "Rate2": 5000
+      },
+      "59": {
+        "Exp": 37200,
+        "Rate": 92522,
+        "Rate2": 5000
+      },
+      "60": {
+        "Exp": 0,
+        "Rate": 94090,
+        "Rate2": 4000
+      }
+    },
+    "Stars": {
+      "0": {
+        "StarRate": 0,
+        "RandRate": 0
+      },
+      "1": {
+        "StarRate": 8922,
+        "RandRate": 3000
+      },
+      "2": {
+        "StarRate": 17844,
+        "RandRate": 6000
+      },
+      "3": {
+        "StarRate": 26766,
+        "RandRate": 9000
+      },
+      "4": {
+        "StarRate": 35688,
+        "RandRate": 12000
+      },
+      "5": {
+        "StarRate": 44610,
+        "RandRate": 15000
+      }
+    },
+    "Materials": "10:12000,101013:4|10:28000,101023:12|10:60000,101023:20|10:100000,101033:10|10:200000,101033:20",
+    "Talents": {
+      "1": {
+        "Name": "Decibel Monologue",
+        "Desc": "While off field, increases the equipper's Energy Regen by <color=#2BAD00>0.6</color> per second. When the equipper uses an <color=#FFFFFF>[EX Special Attack]</color> to deal <color=#F0D12B>Physical DMG</color>, grants a buff to all squad members: Increases DMG dealt by <color=#2BAD00>12.5%</color> for 40s. Can stack up to 2 times, repeated triggers reset the duration. When at 2 stacks, additionally increases ATK by <color=#2BAD00>10%</color>. Only one instance of this effect can exist in the same squad."
+      },
+      "2": {
+        "Name": "Decibel Monologue",
+        "Desc": "While off field, increases the equipper's Energy Regen by <color=#2BAD00>0.69</color> per second. When the equipper uses an <color=#FFFFFF>[EX Special Attack]</color> to deal <color=#F0D12B>Physical DMG</color>, grants a buff to all squad members: Increases DMG dealt by <color=#2BAD00>14.3%</color> for 40s. Can stack up to 2 times, repeated triggers reset the duration. When at 2 stacks, additionally increases ATK by <color=#2BAD00>11.5%</color>. Only one instance of this effect can exist in the same squad."
+      },
+      "3": {
+        "Name": "Decibel Monologue",
+        "Desc": "While off field, increases the equipper's Energy Regen by <color=#2BAD00>0.78</color> per second. When the equipper uses an <color=#FFFFFF>[EX Special Attack]</color> to deal <color=#F0D12B>Physical DMG</color>, grants a buff to all squad members: Increases DMG dealt by <color=#2BAD00>16.1%</color> for 40s. Can stack up to 2 times, repeated triggers reset the duration. When at 2 stacks, additionally increases ATK by <color=#2BAD00>13%</color>. Only one instance of this effect can exist in the same squad."
+      },
+      "4": {
+        "Name": "Decibel Monologue",
+        "Desc": "While off field, increases the equipper's Energy Regen by <color=#2BAD00>0.87</color> per second. When the equipper uses an <color=#FFFFFF>[EX Special Attack]</color> to deal <color=#F0D12B>Physical DMG</color>, grants a buff to all squad members: Increases DMG dealt by <color=#2BAD00>17.9%</color> for 40s. Can stack up to 2 times, repeated triggers reset the duration. When at 2 stacks, additionally increases ATK by <color=#2BAD00>14.5%</color>. Only one instance of this effect can exist in the same squad."
+      },
+      "5": {
+        "Name": "Decibel Monologue",
+        "Desc": "While off field, increases the equipper's Energy Regen by <color=#2BAD00>0.96</color> per second. When the equipper uses an <color=#FFFFFF>[EX Special Attack]</color> to deal <color=#F0D12B>Physical DMG</color>, grants a buff to all squad members: Increases DMG dealt by <color=#2BAD00>20%</color> for 40s. Can stack up to 2 times, repeated triggers reset the duration. When at 2 stacks, additionally increases ATK by <color=#2BAD00>16%</color>. Only one instance of this effect can exist in the same squad."
+      }
+    }
+  },
+  "14150": {
+    "CodeName": "Weapon_S_1501",
+    "Name": "Aria Test W-Engine",
+    "Desc": "Item_Weapon_S_1501_Desc",
+    "Desc2": "Equip to increase Anomaly Agents' combat capabilities",
+    "Desc3": "Item_Weapon_S_1501_ShortDesc",
+    "Rarity": 4,
+    "Icon": "https://api.hakush.in/zzz/UI/Weapon_S_1501.webp",
+    "WeaponType": {
+      "3": "Anomaly"
+    },
+    "BaseProperty": {
+      "Name": "Base ATK",
+      "Name2": "Base ATK",
+      "Format": "{0:0.#}",
+      "Value": 48
+    },
+    "RandProperty": {
+      "Name": "Anomaly Mastery",
+      "Name2": "Anomaly Mastery",
+      "Format": "{0:0.#%}",
+      "Value": 1200
+    },
+    "Level": {
+      "0": {
+        "Exp": 50,
+        "Rate": 0,
+        "Rate2": 10000
+      },
+      "1": {
+        "Exp": 100,
+        "Rate": 1568,
+        "Rate2": 10000
+      },
+      "2": {
+        "Exp": 150,
+        "Rate": 3136,
+        "Rate2": 10000
+      },
+      "3": {
+        "Exp": 200,
+        "Rate": 4705,
+        "Rate2": 10000
+      },
+      "4": {
+        "Exp": 300,
+        "Rate": 6273,
+        "Rate2": 10000
+      },
+      "5": {
+        "Exp": 400,
+        "Rate": 7841,
+        "Rate2": 10000
+      },
+      "6": {
+        "Exp": 500,
+        "Rate": 9409,
+        "Rate2": 10000
+      },
+      "7": {
+        "Exp": 600,
+        "Rate": 10977,
+        "Rate2": 10000
+      },
+      "8": {
+        "Exp": 750,
+        "Rate": 12545,
+        "Rate2": 10000
+      },
+      "9": {
+        "Exp": 950,
+        "Rate": 14114,
+        "Rate2": 10000
+      },
+      "10": {
+        "Exp": 1200,
+        "Rate": 15682,
+        "Rate2": 9000
+      },
+      "11": {
+        "Exp": 1290,
+        "Rate": 17250,
+        "Rate2": 9000
+      },
+      "12": {
+        "Exp": 1380,
+        "Rate": 18818,
+        "Rate2": 9000
+      },
+      "13": {
+        "Exp": 1465,
+        "Rate": 20386,
+        "Rate2": 9000
+      },
+      "14": {
+        "Exp": 1555,
+        "Rate": 21954,
+        "Rate2": 9000
+      },
+      "15": {
+        "Exp": 1640,
+        "Rate": 23523,
+        "Rate2": 9000
+      },
+      "16": {
+        "Exp": 1735,
+        "Rate": 25091,
+        "Rate2": 9000
+      },
+      "17": {
+        "Exp": 1825,
+        "Rate": 26659,
+        "Rate2": 9000
+      },
+      "18": {
+        "Exp": 1910,
+        "Rate": 28227,
+        "Rate2": 9000
+      },
+      "19": {
+        "Exp": 2000,
+        "Rate": 29795,
+        "Rate2": 9000
+      },
+      "20": {
+        "Exp": 3120,
+        "Rate": 31363,
+        "Rate2": 8000
+      },
+      "21": {
+        "Exp": 3315,
+        "Rate": 32932,
+        "Rate2": 8000
+      },
+      "22": {
+        "Exp": 3510,
+        "Rate": 34500,
+        "Rate2": 8000
+      },
+      "23": {
+        "Exp": 3705,
+        "Rate": 36068,
+        "Rate2": 8000
+      },
+      "24": {
+        "Exp": 3900,
+        "Rate": 37636,
+        "Rate2": 8000
+      },
+      "25": {
+        "Exp": 4100,
+        "Rate": 39204,
+        "Rate2": 8000
+      },
+      "26": {
+        "Exp": 4295,
+        "Rate": 40772,
+        "Rate2": 8000
+      },
+      "27": {
+        "Exp": 4490,
+        "Rate": 42341,
+        "Rate2": 8000
+      },
+      "28": {
+        "Exp": 4685,
+        "Rate": 43909,
+        "Rate2": 8000
+      },
+      "29": {
+        "Exp": 4880,
+        "Rate": 45477,
+        "Rate2": 8000
+      },
+      "30": {
+        "Exp": 7200,
+        "Rate": 47045,
+        "Rate2": 7000
+      },
+      "31": {
+        "Exp": 7600,
+        "Rate": 48613,
+        "Rate2": 7000
+      },
+      "32": {
+        "Exp": 8000,
+        "Rate": 50181,
+        "Rate2": 7000
+      },
+      "33": {
+        "Exp": 8400,
+        "Rate": 51750,
+        "Rate2": 7000
+      },
+      "34": {
+        "Exp": 8800,
+        "Rate": 53318,
+        "Rate2": 7000
+      },
+      "35": {
+        "Exp": 9200,
+        "Rate": 54886,
+        "Rate2": 7000
+      },
+      "36": {
+        "Exp": 9600,
+        "Rate": 56454,
+        "Rate2": 7000
+      },
+      "37": {
+        "Exp": 10000,
+        "Rate": 58022,
+        "Rate2": 7000
+      },
+      "38": {
+        "Exp": 10400,
+        "Rate": 59590,
+        "Rate2": 7000
+      },
+      "39": {
+        "Exp": 10800,
+        "Rate": 61159,
+        "Rate2": 7000
+      },
+      "40": {
+        "Exp": 11400,
+        "Rate": 62727,
+        "Rate2": 6000
+      },
+      "41": {
+        "Exp": 12200,
+        "Rate": 64295,
+        "Rate2": 6000
+      },
+      "42": {
+        "Exp": 13000,
+        "Rate": 65863,
+        "Rate2": 6000
+      },
+      "43": {
+        "Exp": 13800,
+        "Rate": 67431,
+        "Rate2": 6000
+      },
+      "44": {
+        "Exp": 14600,
+        "Rate": 68999,
+        "Rate2": 6000
+      },
+      "45": {
+        "Exp": 15400,
+        "Rate": 70568,
+        "Rate2": 6000
+      },
+      "46": {
+        "Exp": 16200,
+        "Rate": 72136,
+        "Rate2": 6000
+      },
+      "47": {
+        "Exp": 17000,
+        "Rate": 73704,
+        "Rate2": 6000
+      },
+      "48": {
+        "Exp": 17800,
+        "Rate": 75272,
+        "Rate2": 6000
+      },
+      "49": {
+        "Exp": 18600,
+        "Rate": 76840,
+        "Rate2": 6000
+      },
+      "50": {
+        "Exp": 22800,
+        "Rate": 78408,
+        "Rate2": 5000
+      },
+      "51": {
+        "Exp": 24400,
+        "Rate": 79977,
+        "Rate2": 5000
+      },
+      "52": {
+        "Exp": 26000,
+        "Rate": 81545,
+        "Rate2": 5000
+      },
+      "53": {
+        "Exp": 27600,
+        "Rate": 83113,
+        "Rate2": 5000
+      },
+      "54": {
+        "Exp": 29200,
+        "Rate": 84681,
+        "Rate2": 5000
+      },
+      "55": {
+        "Exp": 30800,
+        "Rate": 86249,
+        "Rate2": 5000
+      },
+      "56": {
+        "Exp": 32400,
+        "Rate": 87817,
+        "Rate2": 5000
+      },
+      "57": {
+        "Exp": 34000,
+        "Rate": 89386,
+        "Rate2": 5000
+      },
+      "58": {
+        "Exp": 35600,
+        "Rate": 90954,
+        "Rate2": 5000
+      },
+      "59": {
+        "Exp": 37200,
+        "Rate": 92522,
+        "Rate2": 5000
+      },
+      "60": {
+        "Exp": 0,
+        "Rate": 94090,
+        "Rate2": 4000
+      }
+    },
+    "Stars": {
+      "0": {
+        "StarRate": 0,
+        "RandRate": 0
+      },
+      "1": {
+        "StarRate": 8922,
+        "RandRate": 3000
+      },
+      "2": {
+        "StarRate": 17844,
+        "RandRate": 6000
+      },
+      "3": {
+        "StarRate": 26766,
+        "RandRate": 9000
+      },
+      "4": {
+        "StarRate": 35688,
+        "RandRate": 12000
+      },
+      "5": {
+        "StarRate": 44610,
+        "RandRate": 15000
+      }
+    },
+    "Materials": "10:12000,101012:4|10:28000,101022:12|10:60000,101022:20|10:100000,101032:10|10:200000,101032:20",
+    "Talents": {
+      "1": {
+        "Name": "Aria Test W-Engine",
+        "Desc": "Increases the equipper's ATK by <color=#2BAD00>18%</color>. When the equipper enters the field or activates a <color=#FFFFFF>[Special Attack]</color> or <color=#FFFFFF>[EX Special Attack]</color>, they gain a buff: DMG dealt to enemies afflicted with Attribute Anomaly is increased by <color=#2BAD00>15%</color>, and DMG dealt to enemies afflicted with Ether Attribute Anomaly is increased by an additional <color=#2BAD00>15%</color>. This effect lasts for 15s, and repeated triggers reset the duration. The effect is removed when the equipper switches off field."
+      },
+      "2": {
+        "Name": "Aria Test W-Engine",
+        "Desc": "Increases the equipper's ATK by <color=#2BAD00>20.7%</color>. When the equipper enters the field or activates a <color=#FFFFFF>[Special Attack]</color> or <color=#FFFFFF>[EX Special Attack]</color>, they gain a buff: DMG dealt to enemies afflicted with Attribute Anomaly is increased by <color=#2BAD00>17.3%</color>, and DMG dealt to enemies afflicted with Ether Attribute Anomaly is increased by an additional <color=#2BAD00>17.3%</color>. This effect lasts for 15s, and repeated triggers reset the duration. The effect is removed when the equipper switches off field."
+      },
+      "3": {
+        "Name": "Aria Test W-Engine",
+        "Desc": "Increases the equipper's ATK by <color=#2BAD00>23.4%</color>. When the equipper enters the field or activates a <color=#FFFFFF>[Special Attack]</color> or <color=#FFFFFF>[EX Special Attack]</color>, they gain a buff: DMG dealt to enemies afflicted with Attribute Anomaly is increased by <color=#2BAD00>19.5%</color>, and DMG dealt to enemies afflicted with Ether Attribute Anomaly is increased by an additional <color=#2BAD00>19.5%</color>. This effect lasts for 15s, and repeated triggers reset the duration. The effect is removed when the equipper switches off field."
+      },
+      "4": {
+        "Name": "Aria Test W-Engine",
+        "Desc": "Increases the equipper's ATK by <color=#2BAD00>26.1%</color>. When the equipper enters the field or activates a <color=#FFFFFF>[Special Attack]</color> or <color=#FFFFFF>[EX Special Attack]</color>, they gain a buff: DMG dealt to enemies afflicted with Attribute Anomaly is increased by <color=#2BAD00>21.8%</color>, and DMG dealt to enemies afflicted with Ether Attribute Anomaly is increased by an additional <color=#2BAD00>21.8%</color>. This effect lasts for 15s, and repeated triggers reset the duration. The effect is removed when the equipper switches off field."
+      },
+      "5": {
+        "Name": "Aria Test W-Engine",
+        "Desc": "Increases the equipper's ATK by <color=#2BAD00>28.8%</color>. When the equipper enters the field or activates a <color=#FFFFFF>[Special Attack]</color> or <color=#FFFFFF>[EX Special Attack]</color>, they gain a buff: DMG dealt to enemies afflicted with Attribute Anomaly is increased by <color=#2BAD00>24%</color>, and DMG dealt to enemies afflicted with Ether Attribute Anomaly is increased by an additional <color=#2BAD00>24%</color>. This effect lasts for 15s, and repeated triggers reset the duration. The effect is removed when the equipper switches off field."
       }
     }
   }

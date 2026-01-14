@@ -35,7 +35,8 @@ def get_all_wengines(ids, output_file="weapons.json"):
             filename = data["Icon"].split("/")[-1].split(".")[0]
 
             data["Icon"] = f"{ui_base}{filename}.webp"
-        
+            data.pop("Id",None)
+
         all_wengines[str(id)] = data
 
     with open(output_file, "w", encoding="utf-8") as f:
