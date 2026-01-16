@@ -5,24 +5,29 @@ from typing import Dict
 class WeaponType(BaseModel):
     __root__: Dict[str, str]
 
+
 class Property(BaseModel):
     Name: str
     Name2: str
     Format: str
     Value: int
 
+
 class LevelEntry(BaseModel):
     Exp: int
-    Rate: int 
+    Rate: int
     Rate2: int
+
 
 class StarEntry(BaseModel):
     StarRate: int
     RanRate: int
 
+
 class Talent(BaseModel):
     Name: str
     Decription: str
+
 
 class Weapon(BaseModel):
     Id: int
@@ -43,5 +48,3 @@ class Weapon(BaseModel):
 
     Materials: str
     Talents: Dict[str, Talent]
-
-

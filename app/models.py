@@ -1,6 +1,7 @@
 from pydantic import BaseModel, Field
 from datetime import datetime
 
+
 class MongoBaseModel(BaseModel):
     id: int = Field(..., alias="_id")
 
@@ -14,11 +15,3 @@ class DriveDisc(MongoBaseModel):
     Desc4: str
     Story: str
     Icon: str
-
-
-
-
-
-
-
-

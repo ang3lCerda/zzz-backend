@@ -19,17 +19,16 @@ class DriveDisc(Base):
     desc1 = Column(Text, nullable=False)
     desc2 = Column(Text, nullable=False)
 
+
 class Weapon(Base):
-    __tablename__="weapons"
+    __tablename__ = "weapons"
     __table_args__ = {"sqlite_autoincrement": True}
 
-    id= Column(Integer,primary_key=True)
-    icon= Column(String,nullable=False)
-    rank= Column(Integer,nullable=False)
-    type= Column(Integer,nullable=False)
+    id = Column(Integer, primary_key=True)
+    icon = Column(String, nullable=False)
+    rank = Column(Integer, nullable=False)
+    type = Column(Integer, nullable=False)
     name = Column(String, nullable=False)
-
-
 
 
 engine = create_async_engine(DATABASE_URL, echo=True)

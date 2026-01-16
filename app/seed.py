@@ -1,6 +1,6 @@
 import json
 import asyncio
-from db import drive_discs_collection , weapons_collection # your Motor collection
+from db import drive_discs_collection, weapons_collection  # your Motor collections
 
 def load_json(filename):
     try:
@@ -11,55 +11,46 @@ def load_json(filename):
         print(f"Error loading {filename}: {e}")
         return {}
 
-
-
-
 async def seed_drive_discs():
-     # Load JSON
-    with open("app/data/drive_discs.json") as f:
-        raw = json.load(f)
-
-    # Convert dict values to list if your JSON is keyed by strings
+    raw = load_json("app/data/drive_discs.json")
     data_list = list(raw.values()) if isinstance(raw, dict) else raw
 
     if not data_list:
-        print("No documents to insert!")
+        print("No drive discs to insert!")
         return
 
-    # Clear existing collection
     await drive_discs_collection.delete_many({})
 
-    # Assign custom incremental Id for each document
+    # Build a dict keyed by Id
+    wrapped = {}
     for i, doc in enumerate(data_list, start=1):
-        doc["Id"] = i  # your custom ID property
-        # _id is untouched and remains ObjectId
+        doc["Id"] = i
+        wrapped[str(i)] = doc  # wrap by Id
 
-    # Insert all documents
-    await drive_discs_collection.insert_many(data_list)
-    print(f"Inserted {len(data_list)} drive discs with custom Id property")
+    await drive_discs_collection.insert_many(list(wrapped.values()))
+    print(f"Inserted {len(wrapped)} drive discs with Id keys")
 
 async def seed_weapons():
-    with open("app/data/weapons.json") as f:
-        raw = json.load(f)
-
-    # Convert dict values to list if your JSON is keyed by strings
-    data_list = list(raw.values()) if isinstance(raw, dict) else raw
-
+    raw = load_json("app/data/weapons.json")
     data_list = list(raw.values()) if isinstance(raw, dict) else raw
 
     if not data_list:
-        print("No documents to insert!")
+        print("No weapons to insert!")
         return
+
+    await weapons_collection.delete_many({})
+
+    wrapped = {}
     for i, doc in enumerate(data_list, start=1):
-        doc["Id"] = i  # your custom ID property
-    
-    await weapons_collection.insert_many(data_list)
-    print(f"Inserted {len(data_list)} weapons with custom Id property")
+        doc["Id"] = i
+        wrapped[str(i)] = doc
+
+    await weapons_collection.insert_many(list(wrapped.values()))
+    print(f"Inserted {len(wrapped)} weapons")
 
 async def main():
     await seed_drive_discs()
     await seed_weapons()
-
 
 if __name__ == "__main__":
     asyncio.run(main())

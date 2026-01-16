@@ -1,4 +1,3 @@
-
 from pydantic import BaseModel
 
 
@@ -12,21 +11,23 @@ class DriveDiscBase(BaseModel):
 class DriveDiscCreate(DriveDiscBase):
     pass
 
+
 class DriveDiscResponse(DriveDiscBase):
     id: int
+
     class Config:
         from_attributes = True
+
 
 class WeaponBase(BaseModel):
-    icon:str
-    rank:int
-    type:int
-    name:str
+    icon: str
+    rank: int
+    type: int
+    name: str
+
 
 class WeaponsResponse(WeaponBase):
-    id:int
+    id: int
+
     class Config:
         from_attributes = True
-
-
-

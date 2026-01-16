@@ -1,8 +1,9 @@
 import requests
 import json
+
 url = "https://api.hakush.in/zzz/data/equipment.json"
 
-base= "https://api.hakush.in/zzz/data/en/equipment/"
+base = "https://api.hakush.in/zzz/data/en/equipment/"
 ui_base = "https://api.hakush.in/zzz/UI/"
 resp = requests.get(url)
 
@@ -10,6 +11,7 @@ if resp.status_code != 200:
     raise RuntimeError(f"Error fetching data: {resp.status_code}")
 
 data = resp.json()
+
 
 def extract_ids(data, as_int=True, sort_ids=True):
     ids = data.keys()
@@ -22,7 +24,8 @@ def extract_ids(data, as_int=True, sort_ids=True):
         ids.sort()
     return ids
 
-ids=extract_ids(data)
+
+ids = extract_ids(data)
 
 
 def get_all_drive_discs(ids, output_file="drive_discs.json"):
@@ -39,7 +42,7 @@ def get_all_drive_discs(ids, output_file="drive_discs.json"):
             data["Icon"] = f"{ui_base}{filename}.webp"
 
         data.pop("Icon2", None)
-        data.pop("Id",None)
+        data.pop("Id", None)
 
         all_discs[str(disc_id)] = data
 
@@ -47,4 +50,6 @@ def get_all_drive_discs(ids, output_file="drive_discs.json"):
         json.dump(all_discs, f, ensure_ascii=False, indent=2)
 
     return all_discs
+
+
 get_all_drive_discs(ids)

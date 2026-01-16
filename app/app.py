@@ -38,10 +38,19 @@ async def get_disc(id:int):
 
 @app.get("/weapons")
 async def get_all_weapons():
-    weapons_list = await weapons_collection.find({}, {"_id": 0}).to_list(length=None)
+    weapons_list = await weapons_collection.find(
+        {}, 
+        {"_id": 0, "Icon": 1, "WeaponType": 1, "Rarity": 1, "Desc3": 1, "Id": 1, "Name": 1}
+    ).sort("Rarity", -1).to_list(length=None) 
 
-    wrapped = {str(weapon["Id"]): weapon for weapon in weapons_list}
-    return wrapped
+    # Transform WeaponType to just the numeric key
+    for weapon in weapons_list:
+        if "WeaponType" in weapon:
+            # Get the first key from the WeaponType dict
+            weapon["WeaponType"] = int(next(iter(weapon["WeaponType"])))
+
+    return weapons_list
+
 
 @app.get("/weapon/{id}")
 async def get_weapon(id: int):

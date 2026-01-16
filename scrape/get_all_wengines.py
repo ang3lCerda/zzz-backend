@@ -2,12 +2,10 @@ import requests
 import json
 
 url = "https://api.hakush.in/zzz/data/weapon.json"
-base= "https://api.hakush.in/zzz/data/en/weapon/"
+base = "https://api.hakush.in/zzz/data/en/weapon/"
 resp = requests.get(url)
 data = resp.json()
 ui_base = "https://api.hakush.in/zzz/UI/"
-
-
 
 
 def extract_ids(data, as_int=True, sort_ids=True):
@@ -21,13 +19,15 @@ def extract_ids(data, as_int=True, sort_ids=True):
         ids.sort()
     return ids
 
-ids= extract_ids(data)
+
+ids = extract_ids(data)
+
 
 def get_all_wengines(ids, output_file="weapons.json"):
-    all_wengines= {}
+    all_wengines = {}
 
     for id in ids:
-        url=f"{base}{id}.json"
+        url = f"{base}{id}.json"
         response = requests.get(url)
         response.raise_for_status()
         data = response.json()
@@ -35,7 +35,7 @@ def get_all_wengines(ids, output_file="weapons.json"):
             filename = data["Icon"].split("/")[-1].split(".")[0]
 
             data["Icon"] = f"{ui_base}{filename}.webp"
-            data.pop("Id",None)
+            data.pop("Id", None)
 
         all_wengines[str(id)] = data
 
@@ -44,5 +44,5 @@ def get_all_wengines(ids, output_file="weapons.json"):
 
     return all_wengines
 
-get_all_wengines(ids)
 
+get_all_wengines(ids)
