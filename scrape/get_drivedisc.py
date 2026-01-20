@@ -42,7 +42,6 @@ def get_all_drive_discs(ids, output_file="drive_discs.json"):
             data["Icon"] = f"{ui_base}{filename}.webp"
 
         data.pop("Icon2", None)
-        data.pop("Id", None)
 
         all_discs[str(disc_id)] = data
 

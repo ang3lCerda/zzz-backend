@@ -1,6 +1,6 @@
 from fastapi import FastAPI, HTTPException
 from fastapi.middleware.cors import CORSMiddleware
-from app.db import drive_discs_collection, weapons_collection
+from app.db import drive_discs_collection, weapons_collection, characters_collection
 
 app = FastAPI()
 
@@ -9,6 +9,7 @@ app.add_middleware(
     allow_origins=[
         "http://localhost:5173",
         "http://127.0.0.1:5173",
+        "https://ang3lcerda.github.io"
     ],
     allow_credentials=True,
     allow_methods=["*"],
@@ -42,12 +43,7 @@ async def get_all_weapons():
         {}, 
         {"_id": 0, "Icon": 1, "WeaponType": 1, "Rarity": 1, "Desc3": 1, "Id": 1, "Name": 1}
     ).sort("Rarity", -1).to_list(length=None) 
-
-    # Transform WeaponType to just the numeric key
-    for weapon in weapons_list:
-        if "WeaponType" in weapon:
-            # Get the first key from the WeaponType dict
-            weapon["WeaponType"] = int(next(iter(weapon["WeaponType"])))
+   
 
     return weapons_list
 
@@ -63,3 +59,15 @@ async def get_weapon(id: int):
     weapon["_id"] = str(weapon["_id"])
 
     return weapon
+
+
+@app.get("/character/{id}")
+async def get_disc(id:int):
+    char = await characters_collection.find_one({"Id": id})
+    
+    if not char:
+        raise HTTPException(status_code=404, detail="Character not found")
+    
+    char["_id"] = str(char["_id"])
+
+    return char

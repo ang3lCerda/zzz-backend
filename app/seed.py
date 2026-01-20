@@ -1,56 +1,67 @@
 import json
 import asyncio
-from db import drive_discs_collection, weapons_collection  # your Motor collections
+from db import (
+    drive_discs_collection,
+    weapons_collection,
+    characters_collection,
+)
 
-def load_json(filename):
+
+def load_json(filename: str):
     try:
         with open(filename) as file:
-            data = json.load(file)
-        return data
+            return json.load(file)
     except Exception as e:
         print(f"Error loading {filename}: {e}")
         return {}
 
-async def seed_drive_discs():
-    raw = load_json("app/data/drive_discs.json")
+
+async def seed_collection(
+    *,
+    collection,
+    json_path: str,
+    label: str,
+):
+    raw = load_json(json_path)
     data_list = list(raw.values()) if isinstance(raw, dict) else raw
 
     if not data_list:
-        print("No drive discs to insert!")
+        print(f"No {label} to insert!")
         return
 
-    await drive_discs_collection.delete_many({})
+    # Clear existing data
+    await collection.delete_many({})
 
-    # Build a dict keyed by Id
-    wrapped = {}
-    for i, doc in enumerate(data_list, start=1):
+    for i, doc in enumerate(data_list):
+    
+        doc["old_id"] = doc.get("Id")
+
+        # 2. Assign the new sequential ID
         doc["Id"] = i
-        wrapped[str(i)] = doc  # wrap by Id
 
-    await drive_discs_collection.insert_many(list(wrapped.values()))
-    print(f"Inserted {len(wrapped)} drive discs with Id keys")
-
-async def seed_weapons():
-    raw = load_json("app/data/weapons.json")
-    data_list = list(raw.values()) if isinstance(raw, dict) else raw
-
-    if not data_list:
-        print("No weapons to insert!")
-        return
-
-    await weapons_collection.delete_many({})
-
-    wrapped = {}
-    for i, doc in enumerate(data_list, start=1):
-        doc["Id"] = i
-        wrapped[str(i)] = doc
-
-    await weapons_collection.insert_many(list(wrapped.values()))
-    print(f"Inserted {len(wrapped)} weapons")
+    # Insert the modified list
+    await collection.insert_many(data_list)
+    print(f"Inserted {len(data_list)} {label} ")
 
 async def main():
-    await seed_drive_discs()
-    await seed_weapons()
+    await seed_collection(
+        collection=drive_discs_collection,
+        json_path="app/data/drive_discs.json",
+        label="drive discs",
+    )
+
+    await seed_collection(
+        collection=weapons_collection,
+        json_path="app/data/weapons.json",
+        label="weapons",
+    )
+
+    await seed_collection(
+        collection=characters_collection,
+        json_path="app/data/characters.json",
+        label="characters",
+    )
+
 
 if __name__ == "__main__":
     asyncio.run(main())

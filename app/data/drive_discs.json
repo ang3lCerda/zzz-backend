@@ -1,5 +1,6 @@
 {
   "31000": {
+    "Id": 31000,
     "Name": "Woodpecker Electro",
     "Desc2": "CRIT Rate +8%",
     "Desc4": "Landing a critical hit on an enemy with a <color=#FFFFFF>Basic Attack</color>, <color=#FFFFFF>Dodge Counter</color>, or <color=#FFFFFF>EX Special Attack</color> increases the equipper's ATK by 9% for 6s. The buff duration for different skills are calculated separately.",
@@ -7,6 +8,7 @@
     "Icon": "https://api.hakush.in/zzz/UI/SuitWoodpeckerElectro.webp"
   },
   "31100": {
+    "Id": 31100,
     "Name": "Puffer Electro",
     "Desc2": "PEN Ratio +8%",
     "Desc4": "<color=#FFFFFF>Ultimate</color> DMG increases by 20%. Launching an <color=#FFFFFF>Ultimate</color> increases the equipper's ATK by 15% for 12s.",
@@ -14,6 +16,7 @@
     "Icon": "https://api.hakush.in/zzz/UI/SuitPufferElectro.webp"
   },
   "31200": {
+    "Id": 31200,
     "Name": "Shockstar Disco",
     "Desc2": "Impact +6%",
     "Desc4": "<color=#FFFFFF>Basic Attacks</color>, <color=#FFFFFF>Dash Attacks</color>, and <color=#FFFFFF>Dodge Counters</color> inflict 20% more Daze to the main target.",
@@ -21,6 +24,7 @@
     "Icon": "https://api.hakush.in/zzz/UI/SuitShockstarDisco.webp"
   },
   "31300": {
+    "Id": 31300,
     "Name": "Freedom Blues",
     "Desc2": "Anomaly Proficiency +30",
     "Desc4": "When an <color=#FFFFFF>EX Special Attack</color> hits an enemy, reduce the target's Anomaly Buildup RES to the equipper's Attribute by 20% for 8s. This effect does not stack with others of the same attribute.",
@@ -28,6 +32,7 @@
     "Icon": "https://api.hakush.in/zzz/UI/SuitFreedomBlues.webp"
   },
   "31400": {
+    "Id": 31400,
     "Name": "Hormone Punk",
     "Desc2": "ATK +10%",
     "Desc4": "Upon becoming the active character in combat, the equipper's ATK increases by 25% for 10s. This effect can trigger once every 20s.",
@@ -35,6 +40,7 @@
     "Icon": "https://api.hakush.in/zzz/UI/SuitHormonePunk.webp"
   },
   "31500": {
+    "Id": 31500,
     "Name": "Soul Rock",
     "Desc2": "DEF +16%",
     "Desc4": "Upon receiving an enemy attack and losing HP, the equipper takes 40% less DMG for 2.5s. This effect can trigger once every 15s.",
@@ -42,6 +48,7 @@
     "Icon": "https://api.hakush.in/zzz/UI/SuitSoulRock.webp"
   },
   "31600": {
+    "Id": 31600,
     "Name": "Swing Jazz",
     "Desc2": "Energy Regen +20%",
     "Desc4": "Launching a <color=#FFFFFF>Chain Attack</color> or <color=#FFFFFF>Ultimate</color> increases all squad members' DMG by 15% for 12s. Passive effects of the same name do not stack.",
@@ -49,6 +56,7 @@
     "Icon": "https://api.hakush.in/zzz/UI/SuitSwingJazz.webp"
   },
   "31800": {
+    "Id": 31800,
     "Name": "Chaos Jazz",
     "Desc2": "Anomaly Proficiency +30",
     "Desc4": "<color=#FF5521>Fire DMG</color> and <color=#2EB6FF>Electric DMG</color> increases by 15%. While off-field, <color=#FFFFFF>EX Special Attack</color> and <color=#FFFFFF>Assist Attack</color> DMG increases by 20%. When switching on-field, this buff continues for 5s, and this continuation effect can trigger once every 7.5s.",
@@ -56,6 +64,7 @@
     "Icon": "https://api.hakush.in/zzz/UI/SuitChaosJazz.webp"
   },
   "31900": {
+    "Id": 31900,
     "Name": "Proto Punk",
     "Desc2": "Increases Shield effect by 15%.",
     "Desc4": "When any squad member triggers a <color=#FFFFFF>Defensive Assist</color> or <color=#FFFFFF>Evasive Assist</color>, all squad members deal 15% increased DMG, lasting 10s. Passive effects of the same name do not stack.",
@@ -63,6 +72,7 @@
     "Icon": "https://api.hakush.in/zzz/UI/SuitProtoPunk.webp"
   },
   "32200": {
+    "Id": 32200,
     "Name": "Inferno Metal",
     "Desc2": "<color=#FF5521>Fire DMG</color> +10%",
     "Desc4": "Upon hitting a <color=#FF5521>Burning</color> enemy, the equipper's CRIT Rate is increased by 28% for 8s.",
@@ -70,6 +80,7 @@
     "Icon": "https://api.hakush.in/zzz/UI/SuitInfernoMetal.webp"
   },
   "32300": {
+    "Id": 32300,
     "Name": "Chaotic Metal",
     "Desc2": "<color=#FE437E>Ether DMG</color> +10%",
     "Desc4": "The equipper's CRIT DMG increases by 20%. When any character in the squad triggers <color=#FE437E>Corruption's</color> additional DMG, this effect further increases by 5.5% for 8s, stacking up to 6 times. Repeated triggers reset the duration.",
@@ -77,6 +88,7 @@
     "Icon": "https://api.hakush.in/zzz/UI/SuitChaosMetal.webp"
   },
   "32400": {
+    "Id": 32400,
     "Name": "Thunder Metal",
     "Desc2": "<color=#2EB6FF>Electric DMG</color> +10%",
     "Desc4": "As long as an enemy in combat is <color=#2EB6FF>Shocked</color>, the equipper's ATK is increased by 28%.",
@@ -84,6 +96,7 @@
     "Icon": "https://api.hakush.in/zzz/UI/SuitThunderMetal.webp"
   },
   "32500": {
+    "Id": 32500,
     "Name": "Polar Metal",
     "Desc2": "<color=#98EFF0>Ice DMG</color> +10%",
     "Desc4": "Increase the DMG of <color=#FFFFFF>Basic Attack</color> and <color=#FFFFFF>Dash Attack</color> by 20%. When any squad member inflicts <color=#98EFF0>Freeze</color> or <color=#98EFF0>Shatter</color>, this effect increases by an additional 20% for 12s.",
@@ -91,6 +104,7 @@
     "Icon": "https://api.hakush.in/zzz/UI/SuitPolarMetal.webp"
   },
   "32600": {
+    "Id": 32600,
     "Name": "Fanged Metal",
     "Desc2": "<color=#F0D12B>Physical DMG</color> +10%",
     "Desc4": "Whenever a squad member inflicts <color=#F0D12B>Assault</color> on an enemy, the equipper deals 35% additional DMG to the target for 12s.",
@@ -98,6 +112,7 @@
     "Icon": "https://api.hakush.in/zzz/UI/SuitFangedMetal.webp"
   },
   "32700": {
+    "Id": 32700,
     "Name": "Branch & Blade Song",
     "Desc2": "CRIT DMG +16%",
     "Desc4": "When Anomaly Mastery exceeds or equals 115 points, the equipper's CRIT DMG increases by 30%. When any squad member applies <color=#98EFF0>Freeze</color> or triggers the <color=#98EFF0>Shatter</color> effect on an enemy, the equipper's CRIT Rate increases by 12%, lasting 15s.",
@@ -105,6 +120,7 @@
     "Icon": "https://api.hakush.in/zzz/UI/SuitBranch&BladeSong.webp"
   },
   "32800": {
+    "Id": 32800,
     "Name": "Astral Voice",
     "Desc2": "ATK +10%",
     "Desc4": "Whenever any squad member enters the field using a <color=#FFFFFF>Quick Assist</color>, all squad members gain 1 stack of <color=#FFFFFF>Astral</color>, up to a maximum of 3 stacks, and lasting 15s. Repeated triggers reset the duration. Each stack of <color=#FFFFFF>Astral</color> increases the DMG dealt by the character entering the field using a <color=#FFFFFF>Quick Assist</color> by 8%. Passive effects of the same name do not stack.",
@@ -112,6 +128,7 @@
     "Icon": "https://api.hakush.in/zzz/UI/SuitAstralVoice.webp"
   },
   "32900": {
+    "Id": 32900,
     "Name": "Shadow Harmony",
     "Desc2": "The DMG of <color=#FFFFFF>Aftershocks</color> and <color=#FFFFFF>Dash Attacks</color> is increased by 15%.",
     "Desc4": "Upon hitting an enemy with an <color=#FFFFFF>Aftershock</color> or <color=#FFFFFF>Dash Attack</color>, if the DMG dealt aligns with the equipper's attribute, the equipper gains 1 stack of a buff effect, at most once per use of a skill. For each stack, the equipper's ATK increases by 4%, and CRIT Rate increases by 4%. The effect can stack up to 3 times and lasts for 15s. Repeated triggers reset the duration.",
@@ -119,6 +136,7 @@
     "Icon": "https://api.hakush.in/zzz/UI/SuitShadow.webp"
   },
   "33000": {
+    "Id": 33000,
     "Name": "Phaethon's Melody",
     "Desc2": "Anomaly Mastery +8%.",
     "Desc4": "When any squad member uses an <color=#FFFFFF>EX Special Attack</color>, the equipper's Anomaly Proficiency increases by 45 for 8s. If the character using the <color=#FFFFFF>EX Special Attack</color> is not the equipper, the equipper's <color=#FE437E>Ether DMG</color> is increased by 25%.",
@@ -126,6 +144,7 @@
     "Icon": "https://api.hakush.in/zzz/UI/SuitSavior.webp"
   },
   "33100": {
+    "Id": 33100,
     "Name": "Yunkui Tales",
     "Desc2": "HP +10%",
     "Desc4": "When using <color=#FFFFFF>EX Special Attack</color>, <color=#FFFFFF>Chain Attack</color>, or <color=#FFFFFF>Ultimate</color>, CRIT Rate increases by 4%, stacking up to 3 times and lasting 15s. Repeated triggers reset the duration. When having 3 stacks of this effect, Sheer DMG increases by 10%.",
@@ -133,6 +152,7 @@
     "Icon": "https://api.hakush.in/zzz/UI/SuitYunkuiTales.webp"
   },
   "33200": {
+    "Id": 33200,
     "Name": "King of the Summit",
     "Desc2": "Increases Daze of attacks by 6%",
     "Desc4": "When the equipper is a Stun character and uses an <color=#FFFFFF>EX Special Attack</color> or <color=#FFFFFF>Chain Attack</color>, increases CRIT DMG of all squad members by 15%, and when the equipper's CRIT Rate is more than or equal to 50%, further increases CRIT DMG by 15%, lasting 15s. Repeated triggers reset the duration. Passive effects of the same name do not stack.",
@@ -140,6 +160,7 @@
     "Icon": "https://api.hakush.in/zzz/UI/SuitKingoftheSummit.webp"
   },
   "33300": {
+    "Id": 33300,
     "Name": "Dawn's Bloom",
     "Desc2": "Increases <color=#FFFFFF>Basic Attack</color> DMG by 15%.",
     "Desc4": "Increases <color=#FFFFFF>Basic Attack</color> DMG by 20%. When equipped by an Attack character, using an <color=#FFFFFF>EX Special Attack</color> or <color=#FFFFFF>Ultimate</color> will further increase <color=#FFFFFF>Basic Attack</color> DMG by 20% for 25s. Repeated triggers reset the duration.",
@@ -147,6 +168,7 @@
     "Icon": "https://api.hakush.in/zzz/UI/SuitDawnsBloom.webp"
   },
   "33400": {
+    "Id": 33400,
     "Name": "Moonlight Lullaby",
     "Desc2": "Energy Regen +20%",
     "Desc4": "When the equipper is a Support character and uses an <color=#FFFFFF>EX Special Attack</color> or <color=#FFFFFF>Ultimate</color>, the DMG dealt by all squad members increases by 18% for 25s. Repeated triggers reset the duration. Passive effects of the same name do not stack.",
@@ -154,6 +176,7 @@
     "Icon": "https://api.hakush.in/zzz/UI/SuitMoonlightLullaby.webp"
   },
   "33500": {
+    "Id": 33500,
     "Name": "White Water Ballad",
     "Desc2": "<color=#F0D12B>Physical DMG</color> +10%",
     "Desc4": "When the equipper is within any <color=#FFFFFF>Ether Veil</color>, their CRIT Rate increases by 10%. After leaving the <color=#FFFFFF>Ether Veil</color>, this buff remains for 15s. If the equipper is an <color=#FFFFFF>Attack</color> character, activating an <color=#FFFFFF>Ether Veil</color> or extending an <color=#FFFFFF>Ether Veil</color>'s duration increases their CRIT Rate by 10% and ATK by 10% for 30s. Repeated triggers reset the duration.",
@@ -161,6 +184,7 @@
     "Icon": "https://api.hakush.in/zzz/UI/SuitWhiteWaterBallad.webp"
   },
   "33600": {
+    "Id": 33600,
     "Name": "Shining Aria",
     "Desc2": "<color=#FE437E>Ether DMG</color> +10%",
     "Desc4": "When the equipper's <color=#FFFFFF>Basic Attack</color> hits an enemy, their Anomaly Proficiency increases by 36, lasting 8s. Repeated triggers reset the duration. When any enemy on the field is Stunned, the equipper's DMG increases by 25% for 18s. Repeated triggers reset the duration.",
