@@ -71,3 +71,12 @@ async def get_disc(id:int):
     char["_id"] = str(char["_id"])
 
     return char
+
+@app.get("/characters")
+async def get_all_characters():
+    character_list = await characters_collection.find(
+        {}, 
+        {"_id": 0, "CodeName": 1, "Rarity": 1, "WeaponType": 1, "ElementType": 1, "HitType": 1, "Camp": 1, "Icon": 1, "Name": 1, "Id":1}
+    ).sort("Rarity", -1).to_list(length=None) 
+
+    return character_list
